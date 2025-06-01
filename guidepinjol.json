@@ -1,0 +1,50 @@
+{
+  "appName": "Panduan Lengkap",
+  "version": "1.0.0",
+  "categories": [
+    {
+      "id": "c1-github",
+      "title": "Dasar Pemrograman (GitHub)",
+      "imageUrl": "https://via.placeholder.com/300x150/FF6347/FFFFFF?Text=Dasar+GitHub"
+    },
+    {
+      "id": "c2-github",
+      "title": "Flutter Keren (GitHub)",
+      "imageUrl": "https://via.placeholder.com/300x150/4682B4/FFFFFF?Text=Flutter+GitHub"
+    }
+  ],
+  "articles": [
+    {
+      "id": "a1-github",
+      "categoryId": "c1-github",
+      "title": "Variabel & Tipe Data (GitHub)",
+      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "logoUrl": "https://via.placeholder.com/70/FFA07A/000000?Text=Var",
+      "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
+    },
+    {
+      "id": "a2-github",
+      "categoryId": "c1-github",
+      "title": "Struktur Kontrol If-Else (GitHub)",
+      "content": "Pembahasan mendalam mengenai struktur kontrol if-else dalam pemrograman, diambil dari GitHub...",
+      "logoUrl": "https://via.placeholder.com/70/FFD700/000000?Text=If",
+      "shortContent": "Pahami cara kerja if-else, sumber GitHub."
+    },
+    {
+      "id": "a3-github",
+      "categoryId": "c2-github",
+      "title": "Manajemen State Flutter (GitHub)",
+      "content": "Berbagai pendekatan manajemen state di Flutter, semua info dari file JSON tunggal di GitHub...",
+      "logoUrl": "https://via.placeholder.com/70/87CEFA/000000?Text=State",
+      "shortContent": "Solusi manajemen state Flutter dari GitHub."
+    },
+    {
+      "id": "a4-github",
+      "categoryId": "c2-github",
+      "title": "Widget Dasar Flutter (GitHub)",
+      "content": "Pengenalan widget-widget dasar yang sering digunakan di Flutter, dari GitHub.",
+      "logoUrl": "https://via.placeholder.com/70/32CD32/FFFFFF?Text=Widget",
+      "shortContent": "Kenali widget dasar Flutter dari GitHub."
+    }
+  ]
+}
