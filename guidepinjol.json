@@ -23,581 +23,95 @@
       "id": "a1-c1",
       "categoryId": "c1",
       "title": "Apa Itu Pinjaman DANA?",
-      "content": "<p>Pinjaman DANA adalah layanan pinjaman online yang disediakan oleh aplikasi DANA bekerja sama dengan lembaga keuangan resmi. Layanan ini memungkinkan pengguna DANA untuk memperoleh pinjaman jangka pendek dengan proses pengajuan yang cepat dan mudah melalui aplikasi.</p><p>Beberapa karakteristik utama dari Pinjaman DANA antara lain:</p>
-      <ul>
-      <li>Pinjaman tanpa agunan (KTA)</li>
-      <li>Proses pengajuan 100% online melalui aplikasi</li>
-      <li>Pencairan dana cepat (dalam hitungan menit jika disetujui)</li>
-      <li>Limit pinjaman mulai dari Rp500 ribu hingga Rp15 juta</li>
-      <li>Jangka waktu pinjaman 30 hari</li>
-      <li>Bunga kompetitif dibandingkan pinjaman online lainnya</li>
-      </ul>
-      <p>Pinjaman DANA ditujukan untuk memenuhi kebutuhan dana jangka pendek pengguna, seperti kebutuhan mendesak, modal usaha kecil, atau overdrawn sementara. Namun perlu diingat bahwa seperti produk pinjaman lainnya, Pinjaman DANA tetap memiliki bunga dan biaya yang harus dibayarkan, sehingga pengguna perlu bijak dalam memanfaatkannya.</p>",
+      "content": "<p>Pinjaman DANA adalah layanan pinjaman online yang disediakan oleh aplikasi DANA bekerja sama dengan lembaga keuangan resmi. Layanan ini memungkinkan pengguna DANA untuk memperoleh pinjaman jangka pendek dengan proses pengajuan yang cepat dan mudah melalui aplikasi.</p><p>Beberapa karakteristik utama dari Pinjaman DANA antara lain:</p><ul><li>Pinjaman tanpa agunan (KTA)</li><li>Proses pengajuan 100% online melalui aplikasi</li><li>Pencairan dana cepat (dalam hitungan menit jika disetujui)</li><li>Limit pinjaman mulai dari Rp500 ribu hingga Rp15 juta</li><li>Jangka waktu pinjaman 30 hari</li><li>Bunga kompetitif dibandingkan pinjaman online lainnya</li></ul><p>Pinjaman DANA ditujukan untuk memenuhi kebutuhan dana jangka pendek pengguna, seperti kebutuhan mendesak, modal usaha kecil, atau overdrawn sementara. Namun perlu diingat bahwa seperti produk pinjaman lainnya, Pinjaman DANA tetap memiliki bunga dan biaya yang harus dibayarkan, sehingga pengguna perlu bijak dalam memanfaatkannya.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Pinjaman DANA adalah layanan pinjaman online yang disediakan"
     },
-     {
+    {
       "id": "a2-c1",
       "categoryId": "c1",
       "title": "Syarat Pinjaman DANA",
-      "content": "<p>Sebelum mengajukan Pinjaman DANA, pastikan Anda memenuhi syarat-syarat berikut:</p>
-                  <ul>
-                  <li>Warga Negara Indonesia (WNI)</li>
-                  <li>Berusia minimal 21 tahun dan maksimal 55 tahun</li>
-                  <li>Memiliki KTP elektronik (e-KTP) yang masih berlaku</li>
-                  <li>Memiliki rekening bank atas nama sendiri</li>
-                  <li>Memiliki penghasilan tetap (karyawan atau wiraswasta)</li>
-                  <li>Berdomisili di wilayah Indonesia</li>
-                  <li>Memiliki akun DANA yang sudah terverifikasi (KYC)</li>
-                  <li>Memiliki riwayat transaksi aktif di aplikasi DANA</li>
-                  </ul>
-                  <p>Selain persyaratan di atas, DANA juga akan melakukan penilaian kredit internal terhadap profil pengguna. Faktor-faktor yang dapat mempengaruhi persetujuan pinjaman antara lain:</p>
-                  <ul>
-                  <li>Riwayat transaksi di aplikasi DANA</li>
-                  <li>Frekuensi penggunaan aplikasi DANA</li>
-                  <li>Riwayat kredit dari biro kredit (jika ada)</li>
-                  <li>Pekerjaan dan penghasilan</li>
-                  <li>Usia dan status pernikahan</li>
-                  </ul>
-                  <p>Penting untuk diingat bahwa memenuhi semua persyaratan tidak menjamin persetujuan pinjaman. DANA berhak menolak pengajuan pinjaman berdasarkan penilaian internal mereka.</p>",
+      "content": "<p>Sebelum mengajukan Pinjaman DANA, pastikan Anda memenuhi syarat-syarat berikut:</p><ul><li>Warga Negara Indonesia (WNI)</li><li>Berusia minimal 21 tahun dan maksimal 55 tahun</li><li>Memiliki KTP elektronik (e-KTP) yang masih berlaku</li><li>Memiliki rekening bank atas nama sendiri</li><li>Memiliki penghasilan tetap (karyawan atau wiraswasta)</li><li>Berdomisili di wilayah Indonesia</li><li>Memiliki akun DANA yang sudah terverifikasi (KYC)</li><li>Memiliki riwayat transaksi aktif di aplikasi DANA</li></ul><p>Selain persyaratan di atas, DANA juga akan melakukan penilaian kredit internal terhadap profil pengguna. Faktor-faktor yang dapat mempengaruhi persetujuan pinjaman antara lain:</p><ul><li>Riwayat transaksi di aplikasi DANA</li><li>Frekuensi penggunaan aplikasi DANA</li><li>Riwayat kredit dari biro kredit (jika ada)</li><li>Pekerjaan dan penghasilan</li><li>Usia dan status pernikahan</li></ul><p>Penting untuk diingat bahwa memenuhi semua persyaratan tidak menjamin persetujuan pinjaman. DANA berhak menolak pengajuan pinjaman berdasarkan penilaian internal mereka.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Sebelum mengajukan Pinjaman DANA, pastikan Anda memenuhi syarat."
     },
-     {
+    {
       "id": "a3-c1",
       "categoryId": "c1",
       "title": "Cara Mengajukan Pinjaman di Aplikasi DANA",
-      "content": "<p>Berikut adalah langkah-langkah untuk mengajukan Pinjaman DANA melalui aplikasi:</p>
-                  <ol>
-                  <li>Buka aplikasi DANA dan pastikan Anda sudah login</li>
-                  <li>Pada halaman utama, scroll ke bawah dan cari menu "Pinjaman"</li>
-                  <li>Klik menu "Pinjaman" untuk masuk ke halaman pengajuan</li>
-                  <li>Baca syarat dan ketentuan yang berlaku, lalu klik "Setuju"</li>
-                  <li>Pilih jumlah pinjaman yang diinginkan (sesuai limit yang ditawarkan)</li>
-                  <li>Isi formulir pengajuan dengan data diri lengkap</li>
-                  <li>Unggah foto KTP dan selfie dengan KTP</li>
-                  <li>Isi data pekerjaan dan penghasilan</li>
-                  <li>Pilih rekening bank untuk pencairan dana</li>
-                  <li>Periksa kembali semua data yang diisi</li>
-                  <li>Klik "Ajukan Pinjaman" untuk mengirim pengajuan</li>
-                  </ol>
-                  <p>Setelah pengajuan dikirim, DANA akan melakukan verifikasi dan analisis kredit. Proses ini biasanya memakan waktu beberapa menit hingga beberapa jam. Anda akan menerima notifikasi melalui aplikasi jika pinjaman disetujui atau ditolak.</p>
-                  <p>Jika disetujui, dana pinjaman akan langsung ditransfer ke rekening bank yang Anda daftarkan. Pastikan data rekening bank yang diisi sudah benar untuk menghindari kegagalan transfer.</p>",
+      "content": "<p>Berikut adalah langkah-langkah untuk mengajukan Pinjaman DANA melalui aplikasi:</p><ol><li>Buka aplikasi DANA dan pastikan Anda sudah login</li><li>Pada halaman utama, scroll ke bawah dan cari menu \"Pinjaman\"</li><li>Klik menu \"Pinjaman\" untuk masuk ke halaman pengajuan</li><li>Baca syarat dan ketentuan yang berlaku, lalu klik \"Setuju\"</li><li>Pilih jumlah pinjaman yang diinginkan (sesuai limit yang ditawarkan)</li><li>Isi formulir pengajuan dengan data diri lengkap</li><li>Unggah foto KTP dan selfie dengan KTP</li><li>Isi data pekerjaan dan penghasilan</li><li>Pilih rekening bank untuk pencairan dana</li><li>Periksa kembali semua data yang diisi</li><li>Klik \"Ajukan Pinjaman\" untuk mengirim pengajuan</li></ol><p>Setelah pengajuan dikirim, DANA akan melakukan verifikasi dan analisis kredit. Proses ini biasanya memakan waktu beberapa menit hingga beberapa jam. Anda akan menerima notifikasi melalui aplikasi jika pinjaman disetujui atau ditolak.</p><p>Jika disetujui, dana pinjaman akan langsung ditransfer ke rekening bank yang Anda daftarkan. Pastikan data rekening bank yang diisi sudah benar untuk menghindari kegagalan transfer.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Berikut adalah langkah-langkah untuk mengajukan ."
     },
-     {
+    {
       "id": "a4-c1",
       "categoryId": "c1",
       "title": "Limit Pinjaman DANA",
-      "content": "<p>Limit pinjaman yang ditawarkan DANA bervariasi tergantung pada penilaian kredit pengguna. Secara umum, rentang limit pinjaman DANA adalah sebagai berikut:</p>
-                  <ul>
-                  <li>Limit minimum: Rp500.000</li>
-                  <li>Limit maksimum: Rp15.000.000</li>
-                  </ul>
-                  <p>Untuk pengguna baru, biasanya limit pinjaman yang diberikan lebih rendah, misalnya Rp500.000 - Rp2.000.000. Seiring berjalannya waktu dan meningkatnya riwayat kredit, limit pinjaman dapat ditingkatkan.</p>
-                  <p>Beberapa faktor yang mempengaruhi besarnya limit pinjaman antara lain:</p>
-                  <ul>
-                  <li>Riwayat transaksi di aplikasi DANA</li>
-                  <li>Frekuensi penggunaan aplikasi DANA</li>
-                  <li>Riwayat pembayaran pinjaman sebelumnya (jika pernah)</li>
-                  <li>Pekerjaan dan penghasilan</li>
-                  <li>Usia dan status pernikahan</li>
-                  <li>Riwayat kredit dari biro kredit (jika ada)</li>
-                  </ul>
-                  <p>Penting untuk diingat bahwa limit pinjaman yang ditawarkan mungkin berbeda-beda untuk setiap pengguna. Anda dapat melihat limit pinjaman yang tersedia di akun Anda melalui menu Pinjaman di aplikasi DANA.</p>",
+      "content": "<p>Limit pinjaman yang ditawarkan DANA bervariasi tergantung pada penilaian kredit pengguna. Secara umum, rentang limit pinjaman DANA adalah sebagai berikut:</p><ul><li>Limit minimum: Rp500.000</li><li>Limit maksimum: Rp15.000.000</li></ul><p>Untuk pengguna baru, biasanya limit pinjaman yang diberikan lebih rendah, misalnya Rp500.000 - Rp2.000.000. Seiring berjalannya waktu dan meningkatnya riwayat kredit, limit pinjaman dapat ditingkatkan.</p><p>Beberapa faktor yang mempengaruhi besarnya limit pinjaman antara lain:</p><ul><li>Riwayat transaksi di aplikasi DANA</li><li>Frekuensi penggunaan aplikasi DANA</li><li>Riwayat pembayaran pinjaman sebelumnya (jika pernah)</li><li>Pekerjaan dan penghasilan</li><li>Usia dan status pernikahan</li><li>Riwayat kredit dari biro kredit (jika ada)</li></ul><p>Penting untuk diingat bahwa limit pinjaman yang ditawarkan mungkin berbeda-beda untuk setiap pengguna. Anda dapat melihat limit pinjaman yang tersedia di akun Anda melalui menu Pinjaman di aplikasi DANA.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Limit pinjaman yang ditawarkan DANA bervariasi."
     },
-     {
+    {
       "id": "a5-c1",
       "categoryId": "c1",
       "title": "Bunga dan Biaya Pinjaman DANA",
-      "content": "<p>Pinjaman DANA mengenakan bunga dan biaya administrasi yang perlu diperhatikan sebelum mengajukan pinjaman. Berikut rincian bunga dan biaya Pinjaman DANA:</p>
-                <ul>
-                <li>Bunga: 0,1% - 0,3% per hari</li>
-                <li>Biaya administrasi: 5% - 8% dari jumlah pinjaman</li>
-                <li>Biaya keterlambatan: 0,5% per hari dari jumlah tunggakan</li>
-                </ul>
-                <p>Contoh perhitungan:</p>
-                <p>Misalkan Anda meminjam Rp1.000.000 dengan jangka waktu 30 hari dan bunga 0,2% per hari.</p>
-                <ul>
-                <li>Bunga: 0,2% x 30 hari x Rp1.000.000 = Rp60.000</li>
-                <li>Biaya administrasi (asumsi 5%): 5% x Rp1.000.000 = Rp50.000</li>
-                <li>Total yang harus dibayar: Rp1.000.000 + Rp60.000 + Rp50.000 = Rp1.110.000</li>
-                </ul>
-                <p>Perlu diingat bahwa bunga dan biaya dapat berubah sewaktu-waktu. Pastikan untuk memeriksa informasi terbaru di aplikasi DANA sebelum mengajukan pinjaman.</p>",
+      "content": "<p>Pinjaman DANA mengenakan bunga dan biaya administrasi yang perlu diperhatikan sebelum mengajukan pinjaman. Berikut rincian bunga dan biaya Pinjaman DANA:</p><ul><li>Bunga: 0,1% - 0,3% per hari</li><li>Biaya administrasi: 5% - 8% dari jumlah pinjaman</li><li>Biaya keterlambatan: 0,5% per hari dari jumlah tunggakan</li></ul><p>Contoh perhitungan:</p><p>Misalkan Anda meminjam Rp1.000.000 dengan jangka waktu 30 hari dan bunga 0,2% per hari.</p><ul><li>Bunga: 0,2% x 30 hari x Rp1.000.000 = Rp60.000</li><li>Biaya administrasi (asumsi 5%): 5% x Rp1.000.000 = Rp50.000</li><li>Total yang harus dibayar: Rp1.000.000 + Rp60.000 + Rp50.000 = Rp1.110.000</li></ul><p>Perlu diingat bahwa bunga dan biaya dapat berubah sewaktu-waktu. Pastikan untuk memeriksa informasi terbaru di aplikasi DANA sebelum mengajukan pinjaman.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Pinjaman DANA mengenakan bunga dan biaya administrasi."
     },
-     {
+    {
       "id": "a6-c1",
       "categoryId": "c1",
       "title": "FAQ Seputar Pinjaman DANA",
-      "content": "<p>Berikut adalah beberapa pertanyaan yang sering diajukan terkait Pinjaman DANA beserta jawabannya:</p>
-                  <ol>
-                  <li>Apakah Pinjaman DANA aman?
-                  <ul>
-                  <li>Ya, Pinjaman DANA dikelola oleh PT Espay Debit Indonesia Koe, perusahaan fintech yang terdaftar dan diawasi oleh OJK.</li>
-                  <li>DANA menerapkan standar keamanan tinggi untuk melindungi data pengguna.</li>
-                  <li>Namun, tetap berhati-hati dan jangan membagikan informasi akun kepada pihak lain.</li>
-                  </ul>
-                  </li>
-                  <li>Berapa lama proses persetujuan Pinjaman DANA?
-                  <ul>
-                  <li>Proses persetujuan biasanya hanya memakan waktu beberapa menit hingga beberapa jam.</li>
-                  <li>Jika semua persyaratan terpenuhi dan data valid, persetujuan bisa sangat cepat.</li>
-                  <li>Waktu persetujuan dapat lebih lama jika diperlukan verifikasi tambahan.</li>
-                  </ul>
-                  </li>
-                  <li>Apa yang terjadi jika saya terlambat membayar?
-                  <ul>
-                  <li>Anda akan dikenakan denda keterlambatan sebesar 0,5% per hari dari jumlah tunggakan.</li>
-                  <li>Keterlambatan akan berdampak negatif pada skor kredit internal DANA.</li>
-                  <li>Jika berlanjut, DANA dapat mengambil tindakan penagihan sesuai ketentuan yang berlaku.</li>
-                  </ul>
-                  </li>
-                  <li>Apakah saya bisa melunasi pinjaman lebih awal?
-                  <ul>
-                  <li>Ya, Anda dapat melunasi pinjaman sebelum jatuh tempo.</li>
-                  <li>Tidak ada penalti untuk pelunasan lebih awal.</li>
-                  <li>Bunga akan dihitung berdasarkan hari penggunaan aktual.</li>
-                  </ul>
-                  </li>
-                  <li>Bagaimana jika pengajuan pinjaman saya ditolak?
-                  <ul>
-                  <li>DANA akan memberitahu alasan penolakan secara umum.</li>
-                  <li>Anda dapat mencoba mengajukan kembali setelah 30 hari.</li>
-                  <li>Gunakan waktu tersebut untuk memperbaiki faktor yang mungkin menyebabkan penolakan.</li>
-                  </ul>
-                  </li>
-                  <li>Apakah ada batasan penggunaan dana pinjaman?
-                  <ul>
-                  <li>Tidak ada batasan spesifik untuk penggunaan dana pinjaman.</li>
-                  <li>Namun, pastikan menggunakan dana secara bertanggung jawab dan sesuai kemampuan bayar.</li>
-                  </ul>
-                  </li>
-                  <li>Bisakah saya memiliki lebih dari satu pinjaman DANA aktif?
-                  <ul>
-                  <li>Umumnya, Anda hanya dapat memiliki satu pinjaman aktif pada satu waktu.</li>
-                  <li>Anda perlu melunasi pinjaman sebelumnya sebelum mengajukan yang baru.</li>
-                  </ul>
-                  </li>
-                  <li>Apakah Pinjaman DANA mempengaruhi limit DANA saya?
-                  <ul>
-                  <li>Pinjaman DANA adalah produk terpisah dan tidak mempengaruhi limit transaksi DANA Anda.</li>
-                  <li>Namun, riwayat pinjaman dapat mempengaruhi penilaian kredit internal DANA.</li>
-                  </ul>
-                  </li>
-                  <li>Bagaimana jika saya kehilangan pekerjaan atau mengalami penurunan pendapatan?
-                  <ul>
-                  <li>Segera hubungi layanan pelanggan DANA untuk mendiskusikan opsi yang tersedia.</li>
-                  <li>DANA mungkin dapat menawarkan restrukturisasi atau perpanjangan jangka waktu.</li>
-                  <li>Jangan menghindari komunikasi, karena hal ini dapat memperburuk situasi.</li>
-                  </ul>
-                  </li>
-                  <li>Apakah ada program loyalitas untuk pengguna Pinjaman DANA?
-                  <ul>
-                  <li>Saat ini belum ada program loyalitas khusus untuk Pinjaman DANA.</li>
-                  <li>Namun, riwayat pinjaman yang baik dapat meningkatkan limit dan menurunkan bunga di masa depan.</li>
-                  <li>DANA juga sering memberikan promo dan cashback untuk berbagai layanannya.</li>
-                  </ul>
-                  </li>
-                  </ol>
-                  <p>Penting untuk selalu merujuk pada informasi terbaru di aplikasi DANA atau website resmi mereka, karena kebijakan dan fitur dapat berubah seiring waktu. Jika Anda memiliki pertanyaan spesifik yang tidak tercantum di sini, jangan ragu untuk menghubungi layanan pelanggan DANA untuk mendapatkan informasi yang akurat dan terkini.</p>",
+      "content": "<p>Berikut adalah beberapa pertanyaan yang sering diajukan terkait Pinjaman DANA beserta jawabannya:</p><ol><li>Apakah Pinjaman DANA aman?<ul><li>Ya, Pinjaman DANA dikelola oleh PT Espay Debit Indonesia Koe, perusahaan fintech yang terdaftar dan diawasi oleh OJK.</li><li>DANA menerapkan standar keamanan tinggi untuk melindungi data pengguna.</li><li>Namun, tetap berhati-hati dan jangan membagikan informasi akun kepada pihak lain.</li></ul></li><li>Berapa lama proses persetujuan Pinjaman DANA?<ul><li>Proses persetujuan biasanya hanya memakan waktu beberapa menit hingga beberapa jam.</li><li>Jika semua persyaratan terpenuhi dan data valid, persetujuan bisa sangat cepat.</li><li>Waktu persetujuan dapat lebih lama jika diperlukan verifikasi tambahan.</li></ul></li><li>Apa yang terjadi jika saya terlambat membayar?<ul><li>Anda akan dikenakan denda keterlambatan sebesar 0,5% per hari dari jumlah tunggakan.</li><li>Keterlambatan akan berdampak negatif pada skor kredit internal DANA.</li><li>Jika berlanjut, DANA dapat mengambil tindakan penagihan sesuai ketentuan yang berlaku.</li></ul></li><li>Apakah saya bisa melunasi pinjaman lebih awal?<ul><li>Ya, Anda dapat melunasi pinjaman sebelum jatuh tempo.</li><li>Tidak ada penalti untuk pelunasan lebih awal.</li><li>Bunga akan dihitung berdasarkan hari penggunaan aktual.</li></ul></li><li>Bagaimana jika pengajuan pinjaman saya ditolak?<ul><li>DANA akan memberitahu alasan penolakan secara umum.</li><li>Anda dapat mencoba mengajukan kembali setelah 30 hari.</li><li>Gunakan waktu tersebut untuk memperbaiki faktor yang mungkin menyebabkan penolakan.</li></ul></li><li>Apakah ada batasan penggunaan dana pinjaman?<ul><li>Tidak ada batasan spesifik untuk penggunaan dana pinjaman.</li><li>Namun, pastikan menggunakan dana secara bertanggung jawab dan sesuai kemampuan bayar.</li></ul></li><li>Bisakah saya memiliki lebih dari satu pinjaman DANA aktif?<ul><li>Umumnya, Anda hanya dapat memiliki satu pinjaman aktif pada satu waktu.</li><li>Anda perlu melunasi pinjaman sebelumnya sebelum mengajukan yang baru.</li></ul></li><li>Apakah Pinjaman DANA mempengaruhi limit DANA saya?<ul><li>Pinjaman DANA adalah produk terpisah dan tidak mempengaruhi limit transaksi DANA Anda.</li><li>Namun, riwayat pinjaman dapat mempengaruhi penilaian kredit internal DANA.</li></ul></li><li>Bagaimana jika saya kehilangan pekerjaan atau mengalami penurunan pendapatan?<ul><li>Segera hubungi layanan pelanggan DANA untuk mendiskusikan opsi yang tersedia.</li><li>DANA mungkin dapat menawarkan restrukturisasi atau perpanjangan jangka waktu.</li><li>Jangan menghindari komunikasi, karena hal ini dapat memperburuk situasi.</li></ul></li><li>Apakah ada program loyalitas untuk pengguna Pinjaman DANA?<ul><li>Saat ini belum ada program loyalitas khusus untuk Pinjaman DANA.</li><li>Namun, riwayat pinjaman yang baik dapat meningkatkan limit dan menurunkan bunga di masa depan.</li><li>DANA juga sering memberikan promo dan cashback untuk berbagai layanannya.</li></ul></li></ol><p>Penting untuk selalu merujuk pada informasi terbaru di aplikasi DANA atau website resmi mereka, karena kebijakan dan fitur dapat berubah seiring waktu. Jika Anda memiliki pertanyaan spesifik yang tidak tercantum di sini, jangan ragu untuk menghubungi layanan pelanggan DANA untuk mendapatkan informasi yang akurat dan terkini.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Berikut adalah beberapa pertanyaan yang sering."
     },
-     {
+    {
       "id": "a7-c1",
       "categoryId": "c1",
       "title": "Jangka Waktu Pinjaman DANA",
-      "content": "<p>Pinjaman DANA memiliki jangka waktu yang relatif singkat dibandingkan produk pinjaman konvensional. Berikut informasi terkait jangka waktu Pinjaman DANA:</p>
-                <ul>
-                <li>Jangka waktu standar: 30 hari</li>
-                <li>Perpanjangan: Maksimal 2 kali (total 90 hari)</li>
-                </ul>
-                <p>Beberapa hal yang perlu diperhatikan terkait jangka waktu pinjaman:</p>
-                <ol>
-                <li>Jangka waktu 30 hari dihitung sejak tanggal pencairan dana ke rekening Anda.</li>
-                <li>Jika Anda tidak dapat melunasi pinjaman dalam 30 hari, Anda dapat mengajukan perpanjangan maksimal 2 kali.</li>
-                <li>Setiap perpanjangan dikenakan biaya tambahan dan persetujuan dari pihak DANA.</li>
-                <li>Jika melewati batas waktu 90 hari (termasuk perpanjangan), pinjaman akan dianggap macet dan dapat berdampak pada skor kredit Anda.</li>
-                </ol>
-                <p>Mengingat jangka waktu yang singkat, pastikan Anda memiliki rencana pembayaran yang jelas sebelum mengajukan Pinjaman DANA. Jangan ragu untuk menghubungi layanan pelanggan DANA jika mengalami kesulitan dalam pembayaran.</p>",
+      "content": "<p>Pinjaman DANA memiliki jangka waktu yang relatif singkat dibandingkan produk pinjaman konvensional. Berikut informasi terkait jangka waktu Pinjaman DANA:</p><ul><li>Jangka waktu standar: 30 hari</li><li>Perpanjangan: Maksimal 2 kali (total 90 hari)</li></ul><p>Beberapa hal yang perlu diperhatikan terkait jangka waktu pinjaman:</p><ol><li>Jangka waktu 30 hari dihitung sejak tanggal pencairan dana ke rekening Anda.</li><li>Jika Anda tidak dapat melunasi pinjaman dalam 30 hari, Anda dapat mengajukan perpanjangan maksimal 2 kali.</li><li>Setiap perpanjangan dikenakan biaya tambahan dan persetujuan dari pihak DANA.</li><li>Jika melewati batas waktu 90 hari (termasuk perpanjangan), pinjaman akan dianggap macet dan dapat berdampak pada skor kredit Anda.</li></ol><p>Mengingat jangka waktu yang singkat, pastikan Anda memiliki rencana pembayaran yang jelas sebelum mengajukan Pinjaman DANA. Jangan ragu untuk menghubungi layanan pelanggan DANA jika mengalami kesulitan dalam pembayaran.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Pinjaman DANA memiliki jangka waktu yang relatif singkat."
     },
-     {
+    {
       "id": "a8-c1",
       "categoryId": "c1",
       "title": "Cara Pembayaran Pinjaman DANA",
-      "content": "<p>DANA menyediakan beberapa metode pembayaran untuk memudahkan pengguna melunasi pinjamannya. Berikut adalah cara-cara yang dapat Anda gunakan untuk membayar Pinjaman DANA:</p>
-                  <ol>
-                  <li>Pembayaran melalui Saldo DANA:
-                  <ul>
-                  <li>Buka aplikasi DANA dan masuk ke menu "Pinjaman"</li>
-                  <li>Pilih pinjaman yang ingin dibayar</li>
-                  <li>Klik "Bayar Sekarang"</li>
-                  <li>Pilih metode pembayaran "Saldo DANA"</li>
-                  <li>Konfirmasi pembayaran</li>
-                  </ul>
-                  </li>
-                  <li>Transfer Bank:
-                  <ul>
-                  <li>Transfer ke rekening virtual account yang diberikan DANA</li>
-                  <li>Pastikan nominal transfer sesuai dengan jumlah tagihan</li>
-                  <li>Pembayaran akan diproses otomatis setelah dana masuk</li>
-                  </ul>
-                  </li>
-                  <li>Pembayaran melalui Gerai Retail:
-                  <ul>
-                  <li>Kunjungi gerai retail yang bekerja sama dengan DANA (Indomaret, Alfamart, dll)</li>
-                  <li>Tunjukkan kode pembayaran dari aplikasi DANA</li>
-                  <li>Lakukan pembayaran sesuai instruksi kasir</li>
-                  </ul>
-                  </li>
-                  <li>Kartu Kredit:
-                  <ul>
-                  <li>Pilih metode pembayaran "Kartu Kredit" di aplikasi DANA</li>
-                  <li>Masukkan detail kartu kredit</li>
-                  <li>Konfirmasi pembayaran</li>
-                  </ul>
-                  </li>
-                  </ol>
-                  <p>Beberapa hal yang perlu diperhatikan dalam pembayaran Pinjaman DANA:</p>
-                  <ul>
-                  <li>Pastikan membayar sebelum tanggal jatuh tempo untuk menghindari denda keterlambatan</li>
-                  <li>Jika menggunakan transfer bank, lakukan minimal 1 hari kerja sebelum jatuh tempo</li>
-                  <li>Simpan bukti pembayaran hingga status pinjaman berubah menjadi "Lunas"</li>
-                  <li>Jika mengalami kesulitan pembayaran, segera hubungi layanan pelanggan DANA</li>
-                  </ul>
-                  <p>Dengan berbagai metode pembayaran yang tersedia, Anda dapat memilih cara yang paling mudah dan nyaman untuk melunasi Pinjaman DANA. Pastikan untuk selalu membayar tepat waktu untuk menjaga riwayat kredit yang baik.</p>",
+      "content": "<p>DANA menyediakan beberapa metode pembayaran untuk memudahkan pengguna melunasi pinjamannya. Berikut adalah cara-cara yang dapat Anda gunakan untuk membayar Pinjaman DANA:</p><ol><li>Pembayaran melalui Saldo DANA:<ul><li>Buka aplikasi DANA dan masuk ke menu \"Pinjaman\"</li><li>Pilih pinjaman yang ingin dibayar</li><li>Klik \"Bayar Sekarang\"</li><li>Pilih metode pembayaran \"Saldo DANA\"</li><li>Konfirmasi pembayaran</li></ul></li><li>Transfer Bank:<ul><li>Transfer ke rekening virtual account yang diberikan DANA</li><li>Pastikan nominal transfer sesuai dengan jumlah tagihan</li><li>Pembayaran akan diproses otomatis setelah dana masuk</li></ul></li><li>Pembayaran melalui Gerai Retail:<ul><li>Kunjungi gerai retail yang bekerja sama dengan DANA (Indomaret, Alfamart, dll)</li><li>Tunjukkan kode pembayaran dari aplikasi DANA</li><li>Lakukan pembayaran sesuai instruksi kasir</li></ul></li><li>Kartu Kredit:<ul><li>Pilih metode pembayaran \"Kartu Kredit\" di aplikasi DANA</li><li>Masukkan detail kartu kredit</li><li>Konfirmasi pembayaran</li></ul></li></ol><p>Beberapa hal yang perlu diperhatikan dalam pembayaran Pinjaman DANA:</p><ul><li>Pastikan membayar sebelum tanggal jatuh tempo untuk menghindari denda keterlambatan</li><li>Jika menggunakan transfer bank, lakukan minimal 1 hari kerja sebelum jatuh tempo</li><li>Simpan bukti pembayaran hingga status pinjaman berubah menjadi \"Lunas\"</li><li>Jika mengalami kesulitan pembayaran, segera hubungi layanan pelanggan DANA</li></ul><p>Dengan berbagai metode pembayaran yang tersedia, Anda dapat memilih cara yang paling mudah dan nyaman untuk melunasi Pinjaman DANA. Pastikan untuk selalu membayar tepat waktu untuk menjaga riwayat kredit yang baik.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "DANA menyediakan beberapa metode pembayaran."
     },
-     {
+    {
       "id": "a9-c1",
       "categoryId": "c1",
       "title": "Keuntungan Menggunakan Pinjaman DANA",
-      "content": "<p>Pinjaman DANA menawarkan beberapa keuntungan dibandingkan dengan layanan pinjaman konvensional atau pinjaman online lainnya. Berikut adalah beberapa keuntungan utama menggunakan Pinjaman DANA:</p>
-                  <ol>
-                  <li>Proses Pengajuan Cepat dan Mudah:
-                  <ul>
-                  <li>Pengajuan 100% online melalui aplikasi DANA</li>
-                  <li>Tidak perlu mengunjungi kantor atau bertemu agen</li>
-                  <li>Proses verifikasi dan persetujuan dalam hitungan menit</li>
-                  </ul>
-                  </li>
-                  <li>Pencairan Dana Instan:
-                  <ul>
-                  <li>Dana langsung ditransfer ke rekening bank Anda</li>
-                  <li>Pencairan bisa dalam hitungan menit setelah disetujui</li>
-                  </ul>
-                  </li>
-                  <li>Tanpa Jaminan:
-                  <ul>
-                  <li>Pinjaman tanpa agunan (KTA)</li>
-                  <li>Tidak perlu menyerahkan BPKB, sertifikat, atau aset lainnya</li>
-                  </ul>
-                  </li>
-                  <li>Bunga Kompetitif:
-                  <ul>
-                  <li>Bunga relatif lebih rendah dibanding pinjaman online lainnya</li>
-                  <li>Transparansi biaya dan bunga</li>
-                  </ul>
-                  </li>
-                  <li>Fleksibilitas Limit Pinjaman:
-                  <ul>
-                  <li>Limit pinjaman yang bervariasi sesuai profil pengguna</li>
-                  <li>Peningkatan limit seiring penggunaan yang baik</li>
-                  </ul>
-                  </li>
-                  <li>Integrasi dengan Ekosistem DANA:
-                  <ul>
-                  <li>Kemudahan pembayaran melalui saldo DANA</li>
-                  <li>Riwayat pinjaman terintegrasi dalam satu aplikasi</li>
-                  </ul>
-                  </li>
-                  <li>Keamanan Data:
-                  <ul>
-                  <li>Perlindungan data pribadi sesuai standar keamanan DANA</li>
-                  <li>Enkripsi data end-to-end</li>
-                  </ul>
-                  </li>
-                  <li>Dukungan Pelanggan 24/7:
-                  <ul>
-                  <li>Layanan pelanggan yang responsif</li>
-                  <li>Berbagai kanal komunikasi (chat, email, telepon)</li>
-                  </ul>
-                  </li>
-                  </ol>
-                  <p>Meski demikian, penting untuk diingat bahwa setiap produk pinjaman memiliki risiko dan tanggung jawab. Pastikan untuk memahami semua syarat dan ketentuan sebelum mengajukan Pinjaman DANA, dan gunakan pinjaman secara bijak sesuai kebutuhan.</p>",
+      "content": "<p>Pinjaman DANA menawarkan beberapa keuntungan dibandingkan dengan layanan pinjaman konvensional atau pinjaman online lainnya. Berikut adalah beberapa keuntungan utama menggunakan Pinjaman DANA:</p><ol><li>Proses Pengajuan Cepat dan Mudah:<ul><li>Pengajuan 100% online melalui aplikasi DANA</li><li>Tidak perlu mengunjungi kantor atau bertemu agen</li><li>Proses verifikasi dan persetujuan dalam hitungan menit</li></ul></li><li>Pencairan Dana Instan:<ul><li>Dana langsung ditransfer ke rekening bank Anda</li><li>Pencairan bisa dalam hitungan menit setelah disetujui</li></ul></li><li>Tanpa Jaminan:<ul><li>Pinjaman tanpa agunan (KTA)</li><li>Tidak perlu menyerahkan BPKB, sertifikat, atau aset lainnya</li></ul></li><li>Bunga Kompetitif:<ul><li>Bunga relatif lebih rendah dibanding pinjaman online lainnya</li><li>Transparansi biaya dan bunga</li></ul></li><li>Fleksibilitas Limit Pinjaman:<ul><li>Limit pinjaman yang bervariasi sesuai profil pengguna</li><li>Peningkatan limit seiring penggunaan yang baik</li></ul></li><li>Integrasi dengan Ekosistem DANA:<ul><li>Kemudahan pembayaran melalui saldo DANA</li><li>Riwayat pinjaman terintegrasi dalam satu aplikasi</li></ul></li><li>Keamanan Data:<ul><li>Perlindungan data pribadi sesuai standar keamanan DANA</li><li>Enkripsi data end-to-end</li></ul></li><li>Dukungan Pelanggan 24/7:<ul><li>Layanan pelanggan yang responsif</li><li>Berbagai kanal komunikasi (chat, email, telepon)</li></ul></li></ol><p>Meski demikian, penting untuk diingat bahwa setiap produk pinjaman memiliki risiko dan tanggung jawab. Pastikan untuk memahami semua syarat dan ketentuan sebelum mengajukan Pinjaman DANA, dan gunakan pinjaman secara bijak sesuai kebutuhan.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Pinjaman DANA menawarkan beberapa keuntungan dibandingkan."
     },
-     {
+    {
       "id": "a10-c1",
       "categoryId": "c1",
       "title": "Risiko dan Hal yang Perlu Diperhatikan",
-      "content": "<p>Meskipun Pinjaman DANA menawarkan berbagai keuntungan, ada beberapa risiko dan hal penting yang perlu diperhatikan sebelum mengajukan pinjaman:</p>
-                  <ol>
-                  <li>Bunga dan Biaya:
-                  <ul>
-                  <li>Meskipun kompetitif, bunga tetap lebih tinggi dibanding KTA bank konvensional</li>
-                  <li>Biaya administrasi dan denda keterlambatan dapat menambah beban finansial</li>
-                  </ul>
-                  </li>
-                  <li>Jangka Waktu Pendek:
-                  <ul>
-                  <li>Jangka waktu 30 hari mungkin terlalu singkat bagi sebagian peminjam</li>
-                  <li>Risiko gagal bayar jika tidak memiliki rencana pembayaran yang matang</li>
-                  </ul>
-                  </li>
-                  <li>Risiko Keterlambatan Pembayaran:
-                  <ul>
-                  <li>Denda keterlambatan yang cukup tinggi (0,5% per hari)</li>
-                  <li>Dampak negatif pada skor kredit jika terlambat atau gagal bayar</li>
-                  </ul>
-                  </li>
-                  <li>Ketergantungan pada Pinjaman:
-                  <ul>
-                  <li>Kemudahan akses dapat mendorong perilaku berhutang yang tidak sehat</li>
-                  <li>Risiko terjebak dalam siklus hutang jika tidak bijak mengelola keuangan</li>
-                  </ul>
-                  </li>
-                  <li>Penilaian Kredit Internal:
-                  <ul>
-                  <li>Kriteria penilaian kredit DANA mungkin berbeda dengan lembaga keuangan lain</li>
-                  <li>Penolakan pinjaman dapat mempengaruhi peluang pinjaman di masa depan</li>
-                  </ul>
-                  </li>
-                  <li>Keamanan Data:
-                  <ul>
-                  <li>Meskipun DANA menjamin keamanan, selalu ada risiko kebocoran data</li>
-                  <li>Pastikan menggunakan koneksi internet yang aman saat mengajukan pinjaman</li>
-                  </ul>
-                  </li>
-                  <li>Perubahan Kebijakan:
-                  <ul>
-                  <li>Syarat, ketentuan, bunga, dan biaya dapat berubah sewaktu-waktu</li>
-                  <li>Perlu selalu memperhatikan pembaruan kebijakan dari DANA</li>
-                  </ul>
-                  </li>
-                  </ol>
-                  <p>Untuk meminimalkan risiko, berikut beberapa tips yang perlu diperhatikan:</p>
-                  <ul>
-                  <li>Pinjam sesuai kebutuhan dan kemampuan bayar</li>
-                  <li>Baca dan pahami semua syarat dan ketentuan sebelum mengajukan pinjaman</li>
-                  <li>Siapkan rencana pembayaran yang matang</li>
-                  <li>Jangan mengandalkan perpanjangan atau refinancing</li>
-                  <li>Prioritaskan pembayaran pinjaman tepat waktu</li>
-                  <li>Jika mengalami kesulitan, segera hubungi layanan pelanggan DANA</li>
-                  </ul>
-                  <p>Dengan memahami risiko dan mengikuti tips di atas, Anda dapat memanfaatkan Pinjaman DANA secara lebih bijak dan aman.</p>",
+      "content": "<p>Meskipun Pinjaman DANA menawarkan berbagai keuntungan, ada beberapa risiko dan hal penting yang perlu diperhatikan sebelum mengajukan pinjaman:</p><ol><li>Bunga dan Biaya:<ul><li>Meskipun kompetitif, bunga tetap lebih tinggi dibanding KTA bank konvensional</li><li>Biaya administrasi dan denda keterlambatan dapat menambah beban finansial</li></ul></li><li>Jangka Waktu Pendek:<ul><li>Jangka waktu 30 hari mungkin terlalu singkat bagi sebagian peminjam</li><li>Risiko gagal bayar jika tidak memiliki rencana pembayaran yang matang</li></ul></li><li>Risiko Keterlambatan Pembayaran:<ul><li>Denda keterlambatan yang cukup tinggi (0,5% per hari)</li><li>Dampak negatif pada skor kredit jika terlambat atau gagal bayar</li></ul></li><li>Ketergantungan pada Pinjaman:<ul><li>Kemudahan akses dapat mendorong perilaku berhutang yang tidak sehat</li><li>Risiko terjebak dalam siklus hutang jika tidak bijak mengelola keuangan</li></ul></li><li>Penilaian Kredit Internal:<ul><li>Kriteria penilaian kredit DANA mungkin berbeda dengan lembaga keuangan lain</li><li>Penolakan pinjaman dapat mempengaruhi peluang pinjaman di masa depan</li></ul></li><li>Keamanan Data:<ul><li>Meskipun DANA menjamin keamanan, selalu ada risiko kebocoran data</li><li>Pastikan menggunakan koneksi internet yang aman saat mengajukan pinjaman</li></ul></li><li>Perubahan Kebijakan:<ul><li>Syarat, ketentuan, bunga, dan biaya dapat berubah sewaktu-waktu</li><li>Perlu selalu memperhatikan pembaruan kebijakan dari DANA</li></ul></li></ol><p>Untuk meminimalkan risiko, berikut beberapa tips yang perlu diperhatikan:</p><ul><li>Pinjam sesuai kebutuhan dan kemampuan bayar</li><li>Baca dan pahami semua syarat dan ketentuan sebelum mengajukan pinjaman</li><li>Siapkan rencana pembayaran yang matang</li><li>Jangan mengandalkan perpanjangan atau refinancing</li><li>Prioritaskan pembayaran pinjaman tepat waktu</li><li>Jika mengalami kesulitan, segera hubungi layanan pelanggan DANA</li></ul><p>Dengan memahami risiko dan mengikuti tips di atas, Anda dapat memanfaatkan Pinjaman DANA secara lebih bijak dan aman.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Meskipun Pinjaman DANA menawarkan berbagai keuntungan, ada beberapa risiko."
     },
-     {
+    {
       "id": "a11-c1",
       "categoryId": "c1",
       "title": "Tips Pengajuan Pinjaman DANA",
-      "content": "<p>Untuk meningkatkan peluang persetujuan dan mendapatkan pengalaman terbaik dalam menggunakan Pinjaman DANA, berikut beberapa tips yang dapat Anda terapkan:</p>
-                  <ol>
-                  <li>Lengkapi Profil DANA:
-                  <ul>
-                  <li>Pastikan akun DANA Anda sudah terverifikasi (KYC)</li>
-                  <li>Lengkapi semua informasi profil di aplikasi DANA</li>
-                  <li>Semakin lengkap profil, semakin tinggi peluang persetujuan</li>
-                  </ul>
-                  </li>
-                  <li>Tingkatkan Aktivitas Transaksi:
-                  <ul>
-                  <li>Lakukan transaksi rutin menggunakan DANA (pembayaran, transfer, dll)</li>
-                  <li>Semakin aktif penggunaan DANA, semakin baik penilaian kredit internal</li>
-                  </ul>
-                  </li>
-                  <li>Siapkan Dokumen dengan Baik:
-                  <ul>
-                  <li>Pastikan foto KTP jelas dan tidak buram</li>
-                  <li>Ambil selfie dengan pencahayaan yang baik</li>
-                  <li>Sediakan dokumen pendukung lain jika diminta (slip gaji, rekening koran, dll)</li>
-                  </ul>
-                  </li>
-                  <li>Pilih Jumlah Pinjaman yang Tepat:
-                  <ul>
-                  <li>Jangan selalu memilih limit maksimum yang ditawarkan</li>
-                  <li>Sesuaikan jumlah pinjaman dengan kebutuhan dan kemampuan bayar</li>
-                  </ul>
-                  </li>
-                  <li>Perhatikan Waktu Pengajuan:
-                  <ul>
-                  <li>Hindari mengajukan di akhir pekan atau hari libur</li>
-                  <li>Pilih waktu kerja normal untuk proses yang lebih cepat</li>
-                  </ul>
-                  </li>
-                  <li>Jaga Riwayat Kredit yang Baik:
-                  <ul>
-                  <li>Bayar pinjaman tepat waktu</li>
-                  <li>Hindari gagal bayar atau keterlambatan pembayaran</li>
-                  </ul>
-                  </li>
-                  <li>Gunakan Fitur Pinjaman DANA secara Bertahap:
-                  <ul>
-                  <li>Mulai dengan jumlah kecil untuk membangun kepercayaan</li>
-                  <li>Tingkatkan jumlah pinjaman secara bertahap seiring waktu</li>
-                  </ul>
-                  </li>
-                  <li>Pahami Syarat dan Ketentuan:
-                  <ul>
-                  <li>Baca dengan teliti semua informasi terkait pinjaman</li>
-                  <li>Jangan ragu bertanya ke layanan pelanggan jika ada yang kurang jelas</li>
-                  </ul>
-                  </li>
-                  <li>Siapkan Rencana Pembayaran:
-                  <ul>
-                  <li>Hitung dengan cermat kemampuan pembayaran Anda</li>
-                  <li>Siapkan dana cadangan untuk mengantisipasi hal tak terduga</li>
-                  </ul>
-                  </li>
-                  <li>Jaga Keamanan Akun:
-                  <ul>
-                  <li>Gunakan PIN dan password yang kuat</li>
-                  <li>Jangan bagikan informasi akun DANA kepada siapapun</li>
-                  <li>Selalu logout dari aplikasi DANA setelah selesai menggunakan</li>
-                  </ul>
-                  </li>
-                  </ol>
-                  <p>Dengan menerapkan tips-tips di atas, Anda dapat meningkatkan peluang persetujuan pinjaman dan memastikan pengalaman yang lebih baik dalam menggunakan layanan Pinjaman DANA. Ingat, pinjaman adalah tanggung jawab finansial, jadi selalu gunakan dengan bijak dan sesuai kebutuhan.</p>",
+      "content": "<p>Untuk meningkatkan peluang persetujuan dan mendapatkan pengalaman terbaik dalam menggunakan Pinjaman DANA, berikut beberapa tips yang dapat Anda terapkan:</p><ol><li>Lengkapi Profil DANA:<ul><li>Pastikan akun DANA Anda sudah terverifikasi (KYC)</li><li>Lengkapi semua informasi profil di aplikasi DANA</li><li>Semakin lengkap profil, semakin tinggi peluang persetujuan</li></ul></li><li>Tingkatkan Aktivitas Transaksi:<ul><li>Lakukan transaksi rutin menggunakan DANA (pembayaran, transfer, dll)</li><li>Semakin aktif penggunaan DANA, semakin baik penilaian kredit internal</li></ul></li><li>Siapkan Dokumen dengan Baik:<ul><li>Pastikan foto KTP jelas dan tidak buram</li><li>Ambil selfie dengan pencahayaan yang baik</li><li>Sediakan dokumen pendukung lain jika diminta (slip gaji, rekening koran, dll)</li></ul></li><li>Pilih Jumlah Pinjaman yang Tepat:<ul><li>Jangan selalu memilih limit maksimum yang ditawarkan</li><li>Sesuaikan jumlah pinjaman dengan kebutuhan dan kemampuan bayar</li></ul></li><li>Perhatikan Waktu Pengajuan:<ul><li>Hindari mengajukan di akhir pekan atau hari libur</li><li>Pilih waktu kerja normal untuk proses yang lebih cepat</li></ul></li><li>Jaga Riwayat Kredit yang Baik:<ul><li>Bayar pinjaman tepat waktu</li><li>Hindari gagal bayar atau keterlambatan pembayaran</li></ul></li><li>Gunakan Fitur Pinjaman DANA secara Bertahap:<ul><li>Mulai dengan jumlah kecil untuk membangun kepercayaan</li><li>Tingkatkan jumlah pinjaman secara bertahap seiring waktu</li></ul></li><li>Pahami Syarat dan Ketentuan:<ul><li>Baca dengan teliti semua informasi terkait pinjaman</li><li>Jangan ragu bertanya ke layanan pelanggan jika ada yang kurang jelas</li></ul></li><li>Siapkan Rencana Pembayaran:<ul><li>Hitung dengan cermat kemampuan pembayaran Anda</li><li>Siapkan dana cadangan untuk mengantisipasi hal tak terduga</li></ul></li><li>Jaga Keamanan Akun:<ul><li>Gunakan PIN dan password yang kuat</li><li>Jangan bagikan informasi akun DANA kepada siapapun</li><li>Selalu logout dari aplikasi DANA setelah selesai menggunakan</li></ul></li></ol><p>Dengan menerapkan tips-tips di atas, Anda dapat meningkatkan peluang persetujuan pinjaman dan memastikan pengalaman yang lebih baik dalam menggunakan layanan Pinjaman DANA. Ingat, pinjaman adalah tanggung jawab finansial, jadi selalu gunakan dengan bijak dan sesuai kebutuhan.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Untuk meningkatkan peluang persetujuan dan mendapatkan pengalaman."
     },
-     {
+    {
       "id": "a12-c1",
       "categoryId": "c1",
       "title": "Perbandingan Pinjaman DANA dengan Layanan Sejenis",
-      "content": "<p>Untuk memberikan gambaran yang lebih komprehensif, berikut adalah perbandingan Pinjaman DANA dengan beberapa layanan pinjaman online lainnya yang populer di Indonesia:</p>
-                  <table>
-                  <tbody>
-                  <tr>
-                  <th>Fitur</th>
-                  <th>Pinjaman DANA</th>
-                  <th>Kredivo</th>
-                  <th>Akulaku</th>
-                  <th>UangMe</th>
-                  </tr>
-                  <tr>
-                  <td>Limit Pinjaman</td>
-                  <td>Rp500rb - Rp15jt</td>
-                  <td>Rp500rb - Rp30jt</td>
-                  <td>Rp1jt - Rp20jt</td>
-                  <td>Rp400rb - Rp8jt</td>
-                  </tr>
-                  <tr>
-                  <td>Jangka Waktu</td>
-                  <td>30 hari</td>
-                  <td>30 hari - 12 bulan</td>
-                  <td>3 - 12 bulan</td>
-                  <td>7 - 30 hari</td>
-                  </tr>
-                  <tr>
-                  <td>Bunga</td>
-                  <td>0,1% - 0,3% per hari</td>
-                  <td>2,6% - 4% per bulan</td>
-                  <td>3% - 3,5% per bulan</td>
-                  <td>0,8% per hari</td>
-                  </tr>
-                  <tr>
-                  <td>Biaya Admin</td>
-                  <td>5% - 8%</td>
-                  <td>0% - 5%</td>
-                  <td>1% - 5%</td>
-                  <td>10% - 15%</td>
-                  </tr>
-                  <tr>
-                  <td>Proses Persetujuan</td>
-                  <td>Beberapa menit</td>
-                  <td>1 - 24 jam</td>
-                  <td>1 - 48 jam</td>
-                  <td>Beberapa menit</td>
-                  </tr>
-                  <tr>
-                  <td>Metode Pembayaran</td>
-                  <td>Saldo DANA, Transfer Bank, Gerai Retail</td>
-                  <td>Kartu Kredit, Transfer Bank</td>
-                  <td>Transfer Bank, Alfamart</td>
-                  <td>Transfer Bank</td>
-                  </tr>
-                  <tr>
-                  <td>Fitur Tambahan</td>
-                  <td>Terintegrasi dengan ekosistem DANA</td>
-                  <td>Cicilan 0% untuk belanja online</td>
-                  <td>Pinjaman untuk belanja online</td>
-                  <td>Perpanjangan otomatis</td>
-                  </tr>
-                  </tbody>
-                  </table>
-                  <p>Beberapa poin penting dari perbandingan di atas:</p>
-                  <ol>
-                  <li>Limit Pinjaman:
-                  <ul>
-                  <li>DANA menawarkan rentang limit yang cukup luas, cocok untuk berbagai kebutuhan</li>
-                  <li>Kredivo memiliki limit tertinggi, ideal untuk kebutuhan dana besar</li>
-                  </ul>
-                  </li>
-                  <li>Jangka Waktu:
-                  <ul>
-                  <li>DANA fokus pada pinjaman jangka sangat pendek (30 hari)</li>
-                  <li>Kredivo dan Akulaku menawarkan opsi cicilan lebih panjang</li>
-                  </ul>
-                  </li>
-                  <li>Bunga:
-                  <ul>
-                  <li>DANA memiliki bunga harian yang kompetitif</li>
-                  <li>Kredivo dan Akulaku menerapkan bunga bulanan yang lebih rendah untuk jangka panjang</li>
-                  </ul>
-                  </li>
-                  <li>Biaya Admin:
-                  <ul>
-                  <li>DANA berada di tengah-tengah dalam hal biaya admin</li>
-                  <li>UangMe memiliki biaya admin tertinggi</li>
-                  </ul>
-                  </li>
-                  <li>Proses Persetujuan:
-                  <ul>
-                  <li>DANA dan UangMe menawarkan proses tercepat</li>
-                  <li>Akulaku memiliki proses paling lama hingga 48 jam</li>
-                  </ul>
-                  </li>
-                  <li>Metode Pembayaran:
-                  <ul>
-                  <li>DANA menawarkan opsi pembayaran paling beragam</li>
-                  <li>Integrasi dengan saldo DANA memberikan kemudahan tambahan</li>
-                  </ul>
-                  </li>
-                  <li>Fitur Tambahan:
-                  <ul>
-                  <li>Setiap layanan memiliki keunggulan unik</li>
-                  <li>DANA unggul dalam integrasi dengan ekosistem dompet digitalnya</li>
-                  </ul>
-                  </li>
-                  </ol>
-                  <p>Dalam memilih layanan pinjaman online, pertimbangkan faktor-faktor berikut:</p>
-                  <ul>
-                  <li>Kebutuhan dana (jumlah dan jangka waktu)</li>
-                  <li>Kemampuan pembayaran</li>
-                  <li>Kecepatan pencairan yang dibutuhkan</li>
-                  <li>Preferensi metode pembayaran</li>
-                  <li>Fitur tambahan yang mungkin bermanfaat</li>
-                  </ul>
-                  <p>Pinjaman DANA mungkin menjadi pilihan tepat jika Anda:</p>
-                  <ul>
-                  <li>Membutuhkan dana cepat dalam jumlah kecil hingga menengah</li>
-                  <li>Mampu melunasi dalam waktu 30 hari</li>
-                  <li>Sudah aktif menggunakan aplikasi DANA untuk transaksi sehari-hari</li>
-                  <li>Menginginkan proses pengajuan dan pencairan yang sangat cepat</li>
-                  </ul>
-                  <p>Namun, jika Anda membutuhkan pinjaman jangka panjang atau jumlah yang lebih besar, opsi seperti Kredivo atau Akulaku mungkin lebih sesuai. Selalu bandingkan dengan cermat dan pilih layanan yang paling sesuai dengan kebutuhan dan kemampuan finansial Anda.</p>",
+      "content": "<p>Untuk memberikan gambaran yang lebih komprehensif, berikut adalah perbandingan Pinjaman DANA dengan beberapa layanan pinjaman online lainnya yang populer di Indonesia:</p><table><tbody><tr><th>Fitur</th><th>Pinjaman DANA</th><th>Kredivo</th><th>Akulaku</th><th>UangMe</th></tr><tr><td>Limit Pinjaman</td><td>Rp500rb - Rp15jt</td><td>Rp500rb - Rp30jt</td><td>Rp1jt - Rp20jt</td><td>Rp400rb - Rp8jt</td></tr><tr><td>Jangka Waktu</td><td>30 hari</td><td>30 hari - 12 bulan</td><td>3 - 12 bulan</td><td>7 - 30 hari</td></tr><tr><td>Bunga</td><td>0,1% - 0,3% per hari</td><td>2,6% - 4% per bulan</td><td>3% - 3,5% per bulan</td><td>0,8% per hari</td></tr><tr><td>Biaya Admin</td><td>5% - 8%</td><td>0% - 5%</td><td>1% - 5%</td><td>10% - 15%</td></tr><tr><td>Proses Persetujuan</td><td>Beberapa menit</td><td>1 - 24 jam</td><td>1 - 48 jam</td><td>Beberapa menit</td></tr><tr><td>Metode Pembayaran</td><td>Saldo DANA, Transfer Bank, Gerai Retail</td><td>Kartu Kredit, Transfer Bank</td><td>Transfer Bank, Alfamart</td><td>Transfer Bank</td></tr><tr><td>Fitur Tambahan</td><td>Terintegrasi dengan ekosistem DANA</td><td>Cicilan 0% untuk belanja online</td><td>Pinjaman untuk belanja online</td><td>Perpanjangan otomatis</td></tr></tbody></table><p>Beberapa poin penting dari perbandingan di atas:</p><ol><li>Limit Pinjaman:<ul><li>DANA menawarkan rentang limit yang cukup luas, cocok untuk berbagai kebutuhan</li><li>Kredivo memiliki limit tertinggi, ideal untuk kebutuhan dana besar</li></ul></li><li>Jangka Waktu:<ul><li>DANA fokus pada pinjaman jangka sangat pendek (30 hari)</li><li>Kredivo dan Akulaku menawarkan opsi cicilan lebih panjang</li></ul></li><li>Bunga:<ul><li>DANA memiliki bunga harian yang kompetitif</li><li>Kredivo dan Akulaku menerapkan bunga bulanan yang lebih rendah untuk jangka panjang</li></ul></li><li>Biaya Admin:<ul><li>DANA berada di tengah-tengah dalam hal biaya admin</li><li>UangMe memiliki biaya admin tertinggi</li></ul></li><li>Proses Persetujuan:<ul><li>DANA dan UangMe menawarkan proses tercepat</li><li>Akulaku memiliki proses paling lama hingga 48 jam</li></ul></li><li>Metode Pembayaran:<ul><li>DANA menawarkan opsi pembayaran paling beragam</li><li>Integrasi dengan saldo DANA memberikan kemudahan tambahan</li></ul></li><li>Fitur Tambahan:<ul><li>Setiap layanan memiliki keunggulan unik</li><li>DANA unggul dalam integrasi dengan ekosistem dompet digitalnya</li></ul></li></ol><p>Dalam memilih layanan pinjaman online, pertimbangkan faktor-faktor berikut:</p><ul><li>Kebutuhan dana (jumlah dan jangka waktu)</li><li>Kemampuan pembayaran</li><li>Kecepatan pencairan yang dibutuhkan</li><li>Preferensi metode pembayaran</li><li>Fitur tambahan yang mungkin bermanfaat</li></ul><p>Pinjaman DANA mungkin menjadi pilihan tepat jika Anda:</p><ul><li>Membutuhkan dana cepat dalam jumlah kecil hingga menengah</li><li>Mampu melunasi dalam waktu 30 hari</li><li>Sudah aktif menggunakan aplikasi DANA untuk transaksi sehari-hari</li><li>Menginginkan proses pengajuan dan pencairan yang sangat cepat</li></ul><p>Namun, jika Anda membutuhkan pinjaman jangka panjang atau jumlah yang lebih besar, opsi seperti Kredivo atau Akulaku mungkin lebih sesuai. Selalu bandingkan dengan cermat dan pilih layanan yang paling sesuai dengan kebutuhan dan kemampuan finansial Anda.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Untuk memberikan gambaran yang lebih komprehensif, berikut."
     },
@@ -610,7 +124,7 @@
       "shortContent": "Pahami cara kerja if-else, sumber GitHub."
     },
     {
-      "id": "a3-github",
+      "id": "id": "a3-github",
       "categoryId": "c2-github",
       "title": "Manajemen State Flutter (GitHub)",
       "content": "Berbagai pendekatan manajemen state di Flutter, semua info dari file JSON tunggal di GitHub...",
