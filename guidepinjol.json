@@ -122,22 +122,6 @@
       "content": "Pembahasan mendalam mengenai struktur kontrol if-else dalam pemrograman, diambil dari GitHub...",
       "logoUrl": "https://via.placeholder.com/70/FFD700/000000?Text=If",
       "shortContent": "Pahami cara kerja if-else, sumber GitHub."
-    },
-    {
-      "id": "a3-github",
-      "categoryId": "c2-github",
-      "title": "Manajemen State Flutter (GitHub)",
-      "content": "Berbagai pendekatan manajemen state di Flutter, semua info dari file JSON tunggal di GitHub...",
-      "logoUrl": "https://via.placeholder.com/70/87CEFA/000000?Text=State",
-      "shortContent": "Solusi manajemen state Flutter dari GitHub."
-    },
-    {
-      "id": "a4-github",
-      "categoryId": "c2-github",
-      "title": "Widget Dasar Flutter (GitHub)",
-      "content": "Pengenalan widget-widget dasar yang sering digunakan di Flutter, dari GitHub.",
-      "logoUrl": "https://via.placeholder.com/70/32CD32/FFFFFF?Text=Widget",
-      "shortContent": "Kenali widget dasar Flutter dari GitHub."
     }
   ]
 }
