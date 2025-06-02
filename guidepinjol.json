@@ -20,11 +20,110 @@
   ],
   "articles": [
     {
-      "id": "a1-github",
-      "categoryId": "c1-github",
-      "title": "Variabel & Tipe Data (GitHub)",
+      "id": "a1-c1",
+      "categoryId": "c1",
+      "title": "Apa Itu Pinjaman DANA?",
+      "content": "<p>Pinjaman DANA adalah layanan pinjaman online yang disediakan oleh aplikasi DANA bekerja sama dengan lembaga keuangan resmi. Layanan ini memungkinkan pengguna DANA untuk memperoleh pinjaman jangka pendek dengan proses pengajuan yang cepat dan mudah melalui aplikasi.</p>
+                  <p>Beberapa karakteristik utama dari Pinjaman DANA antara lain:</p>
+                  <ul>
+                  <li>Pinjaman tanpa agunan (KTA)</li>
+                  <li>Proses pengajuan 100% online melalui aplikasi</li>
+                  <li>Pencairan dana cepat (dalam hitungan menit jika disetujui)</li>
+                  <li>Limit pinjaman mulai dari Rp500 ribu hingga Rp15 juta</li>
+                  <li>Jangka waktu pinjaman 30 hari</li>
+                  <li>Bunga kompetitif dibandingkan pinjaman online lainnya</li>
+                  </ul>
+                  <p>Pinjaman DANA ditujukan untuk memenuhi kebutuhan dana jangka pendek pengguna, seperti kebutuhan mendesak, modal usaha kecil, atau overdrawn sementara. Namun perlu diingat bahwa seperti produk pinjaman lainnya, Pinjaman DANA tetap memiliki bunga dan biaya yang harus dibayarkan, sehingga pengguna perlu bijak dalam memanfaatkannya.</p>
+                  </div>",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
+      "shortContent": "Pinjaman DANA adalah layanan pinjaman online yang disediakan"
+    },
+     {
+      "id": "a2-c1",
+      "categoryId": "c1",
+      "title": "artikel1",
       "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
-      "logoUrl": "https://via.placeholder.com/70/FFA07A/000000?Text=Var",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
+      "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
+    },
+     {
+      "id": "a3-c1",
+      "categoryId": "c1",
+      "title": "artikel1",
+      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
+      "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
+    },
+     {
+      "id": "a4-c1",
+      "categoryId": "c1",
+      "title": "artikel1",
+      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
+      "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
+    },
+     {
+      "id": "a5-c1",
+      "categoryId": "c1",
+      "title": "artikel1",
+      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
+      "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
+    },
+     {
+      "id": "a6-c1",
+      "categoryId": "c1",
+      "title": "artikel1",
+      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
+      "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
+    },
+     {
+      "id": "a7-c1",
+      "categoryId": "c1",
+      "title": "artikel1",
+      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
+      "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
+    },
+     {
+      "id": "a8-c1",
+      "categoryId": "c1",
+      "title": "artikel1",
+      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
+      "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
+    },
+     {
+      "id": "a9-c1",
+      "categoryId": "c1",
+      "title": "artikel1",
+      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
+      "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
+    },
+     {
+      "id": "a10-c1",
+      "categoryId": "c1",
+      "title": "artikel1",
+      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
+      "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
+    },
+     {
+      "id": "a11-c1",
+      "categoryId": "c1",
+      "title": "artikel1",
+      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
+      "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
+    },
+     {
+      "id": "a12-c1",
+      "categoryId": "c1",
+      "title": "artikel1",
+      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
     },
     {
