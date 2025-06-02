@@ -33,24 +33,60 @@
                   <li>Jangka waktu pinjaman 30 hari</li>
                   <li>Bunga kompetitif dibandingkan pinjaman online lainnya</li>
                   </ul>
-                  <p>Pinjaman DANA ditujukan untuk memenuhi kebutuhan dana jangka pendek pengguna, seperti kebutuhan mendesak, modal usaha kecil, atau overdrawn sementara. Namun perlu diingat bahwa seperti produk pinjaman lainnya, Pinjaman DANA tetap memiliki bunga dan biaya yang harus dibayarkan, sehingga pengguna perlu bijak dalam memanfaatkannya.</p>
-                  </div>",
+                  <p>Pinjaman DANA ditujukan untuk memenuhi kebutuhan dana jangka pendek pengguna, seperti kebutuhan mendesak, modal usaha kecil, atau overdrawn sementara. Namun perlu diingat bahwa seperti produk pinjaman lainnya, Pinjaman DANA tetap memiliki bunga dan biaya yang harus dibayarkan, sehingga pengguna perlu bijak dalam memanfaatkannya.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Pinjaman DANA adalah layanan pinjaman online yang disediakan"
     },
      {
       "id": "a2-c1",
       "categoryId": "c1",
-      "title": "artikel1",
-      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "title": "Syarat Pinjaman DANA",
+      "content": "<p>Sebelum mengajukan Pinjaman DANA, pastikan Anda memenuhi syarat-syarat berikut:</p>
+                  <ul>
+                  <li>Warga Negara Indonesia (WNI)</li>
+                  <li>Berusia minimal 21 tahun dan maksimal 55 tahun</li>
+                  <li>Memiliki KTP elektronik (e-KTP) yang masih berlaku</li>
+                  <li>Memiliki rekening bank atas nama sendiri</li>
+                  <li>Memiliki penghasilan tetap (karyawan atau wiraswasta)</li>
+                  <li>Berdomisili di wilayah Indonesia</li>
+                  <li>Memiliki akun DANA yang sudah terverifikasi (KYC)</li>
+                  <li>Memiliki riwayat transaksi aktif di aplikasi DANA</li>
+                  </ul>
+                  <p>Selain persyaratan di atas, DANA juga akan melakukan penilaian kredit internal terhadap profil pengguna. Faktor-faktor yang dapat mempengaruhi persetujuan pinjaman antara lain:</p>
+                  <ul>
+                  <li>Riwayat transaksi di aplikasi DANA</li>
+                  <li>Frekuensi penggunaan aplikasi DANA</li>
+                  <li>Riwayat kredit dari biro kredit (jika ada)</li>
+                  <li>Pekerjaan dan penghasilan</li>
+                  <li>Usia dan status pernikahan</li>
+                  </ul>
+                  <p>Penting untuk diingat bahwa memenuhi semua persyaratan tidak menjamin persetujuan pinjaman. DANA berhak menolak pengajuan pinjaman berdasarkan penilaian internal mereka.</p>",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
-      "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
+      "shortContent": "Sebelum mengajukan Pinjaman DANA, pastikan Anda memenuhi syarat."
     },
      {
       "id": "a3-c1",
       "categoryId": "c1",
-      "title": "artikel1",
-      "content": "Ini adalah konten lengkap tentang variabel dan tipe data yang diambil dari satu file JSON di GitHub...",
+      "title": "Cara Mengajukan Pinjaman di Aplikasi DANA",
+      "content": "Cara Mengajukan Pinjaman di Aplikasi DANA
+
+Berikut adalah langkah-langkah untuk mengajukan Pinjaman DANA melalui aplikasi:
+
+Buka aplikasi DANA dan pastikan Anda sudah login
+Pada halaman utama, scroll ke bawah dan cari menu "Pinjaman"
+Klik menu "Pinjaman" untuk masuk ke halaman pengajuan
+Baca syarat dan ketentuan yang berlaku, lalu klik "Setuju"
+Pilih jumlah pinjaman yang diinginkan (sesuai limit yang ditawarkan)
+Isi formulir pengajuan dengan data diri lengkap
+Unggah foto KTP dan selfie dengan KTP
+Isi data pekerjaan dan penghasilan
+Pilih rekening bank untuk pencairan dana
+Periksa kembali semua data yang diisi
+Klik "Ajukan Pinjaman" untuk mengirim pengajuan
+
+Setelah pengajuan dikirim, DANA akan melakukan verifikasi dan analisis kredit. Proses ini biasanya memakan waktu beberapa menit hingga beberapa jam. Anda akan menerima notifikasi melalui aplikasi jika pinjaman disetujui atau ditolak.
+
+Jika disetujui, dana pinjaman akan langsung ditransfer ke rekening bank yang Anda daftarkan. Pastikan data rekening bank yang diisi sudah benar untuk menghindari kegagalan transfer.",
       "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mvqR1CVXCmhxbpx6Sxz5QE0kKmd5HHJV3g&s",
       "shortContent": "Pelajari dasar variabel dan tipe data dari GitHub."
     },
