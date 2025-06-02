@@ -14,7 +14,7 @@
     },
     {
       "id": "c3",
-      "title": "pinjaman cair 5 menit",
+      "title": "Pinjaman Cair 5 Menit",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPaIynJ2p1hCyMuZE_UN1VHb2UviQlZwcjyQ&s"
     }
   ],
@@ -119,147 +119,121 @@
       "id": "a1-c2",
       "categoryId": "c2",
       "title": "GoPay PayLater",
-      "content": "<p>Gojek merupakan salah satu ojek<span>&nbsp;</span><em>online<span>&nbsp;</span></em>yang memiliki fitur PayLater. Cara Mendaftar<span>&nbsp;</span>Gojek PayLater<span>&nbsp;</span>seperti pada umumnya yaitu dengan mengajukan permohonan dan disetujui, akan tetapi hanya pelanggan tertentu saja yang bisa menggunakannya.</p>
-<p>Berikut cara mengaktifkan GoPay Later di Aplikasi Gojek ;</p>
-<ul>
-<li>Di aplikasi GoPay Later, klik Aktifin Sekarang</li>
-<li>Masuk ke akun PT MAB lalu klik Lanjut</li>
-<li>Baca serta pahami Syarat dan Ketentuan, lalu klik Saya Setuju dengan Syarat &amp; Ketentuan</li>
-<li>Foto e-KTP, foto<span>&nbsp;</span><em>selfie</em>, dan isi data diri</li>
-<li>Tunggu data diproses</li>
-</ul>
-<p>Kelebihan yang ditawarkan adalah maksimal limit hingga Rp 30 juta, tenor hingga 12 bulan dan biaya mulai dari 2% per transaksi serta bebas biaya bulanan.</p>
-<p>Dengan bisa digunakannya di semua<span>&nbsp;</span><em>merchant<span>&nbsp;</span></em>GoPay yang semuanya sudah tersedia dalam satu aplikasi Gojek di hp, dan<span>&nbsp;</span><em>Merchants<span>&nbsp;</span></em>yang bekerja sama dengan Gojek ini adalah GoFood, GoRide, GoBluebird, GoPulsa, GoTix, dan juga GoBills.</p>",
+      "content": "<p>Gojek merupakan salah satu ojek<span>&nbsp;</span><em>online<span>&nbsp;</span></em>yang memiliki fitur PayLater. Cara Mendaftar<span>&nbsp;</span>Gojek PayLater<span>&nbsp;</span>seperti pada umumnya yaitu dengan mengajukan permohonan dan disetujui, akan tetapi hanya pelanggan tertentu saja yang bisa menggunakannya.</p><p>Berikut cara mengaktifkan GoPay Later di Aplikasi Gojek ;</p><ul><li>Di aplikasi GoPay Later, klik Aktifin Sekarang</li><li>Masuk ke akun PT MAB lalu klik Lanjut</li><li>Baca serta pahami Syarat dan Ketentuan, lalu klik Saya Setuju dengan Syarat &amp; Ketentuan</li><li>Foto e-KTP, foto<span>&nbsp;</span><em>selfie</em>, dan isi data diri</li><li>Tunggu data diproses</li></ul><p>Kelebihan yang ditawarkan adalah maksimal limit hingga Rp 30 juta, tenor hingga 12 bulan dan biaya mulai dari 2% per transaksi serta bebas biaya bulanan.</p><p>Dengan bisa digunakannya di semua<span>&nbsp;</span><em>merchant<span>&nbsp;</span></em>GoPay yang semuanya sudah tersedia dalam satu aplikasi Gojek di hp, dan<span>&nbsp;</span><em>Merchants<span>&nbsp;</span></em>yang bekerja sama dengan Gojek ini adalah GoFood, GoRide, GoBluebird, GoPulsa, GoTix, dan juga GoBills.</p>",
       "logoUrl": "https://png.pngtree.com/png-vector/20220622/ourmid/pngtree-e-wallet-color-icon-vector-isolated-png-image_5254352.png",
       "shortContent": "Gojek merupakan salah satu ojek."
     },
-     {
+    {
       "id": "a2-c2",
       "categoryId": "c2",
       "title": "Shopee PayLater",
-      "content": "<p>Shopee PayLater adalah salah satu alat pembayaran untuk<span>&nbsp;</span>Shopee<span>&nbsp;</span>dan punya fitur PayLater. Cara Mendaftar Shopee PayLater adalah dengan menggunakan E-KTP dan menunggu verifikasi dari pusat yang memakan waktu sekitar 24 jam.</p>
-<p>Berikut cara daftar PayLater Shopee :</p>
-<ul>
-<li>Buka aplikasi Shopee</li>
-<li>Klik tab Saya, lalu pilih SPayLater</li>
-<li>Klik Aktifkan Sekarang</li>
-<li>Masukan Kode Verifikasi (OTP)* yang dikirimkan melalui SMS dan klik Lanjut&nbsp;</li>
-<li>Unggah Foto KTP dan masukan Nama beserta NIK. Klik Konfirmasi</li>
-<li>Masukan Informasi Tambahan. Klik Konfirmasi</li>
-<li>Lakukan Verifikasi Wajah. Arahkan wajah ke dalam<span>&nbsp;</span><em>frame<span>&nbsp;</span></em>sesuai dengan petunjuk</li>
-</ul>
-<p>Kelebihan yang ditawarkan adalah bisa membeli barang di Shopee dan membayarnya nanti dengan cicilan hingga 12 bulan dan limit hingga Rp 50 juta.</p>
-<p>Cara bayar Shopee PayLater ini sangat mudah, klik saya, ShopeePayLater, pilih pembayaran ShopeePay, Indomaret, atau<span>&nbsp;</span><em>virtual account</em><span>&nbsp;</span>yang akan diingatkan setiap tanggal 25. Sebab, jika melewati tanggal tersebut akan dikenakan denda sebesar 5% dari total tagihan.</p>",
+      "content": "<p>Shopee PayLater adalah salah satu alat pembayaran untuk<span>&nbsp;</span>Shopee<span>&nbsp;</span>dan punya fitur PayLater. Cara Mendaftar Shopee PayLater adalah dengan menggunakan E-KTP dan menunggu verifikasi dari pusat yang memakan waktu sekitar 24 jam.</p><p>Berikut cara daftar PayLater Shopee :</p><ul><li>Buka aplikasi Shopee</li><li>Klik tab Saya, lalu pilih SPayLater</li><li>Klik Aktifkan Sekarang</li><li>Masukan Kode Verifikasi (OTP)* yang dikirimkan melalui SMS dan klik Lanjut&nbsp;</li><li>Unggah Foto KTP dan masukan Nama beserta NIK. Klik Konfirmasi</li><li>Masukan Informasi Tambahan. Klik Konfirmasi</li><li>Lakukan Verifikasi Wajah. Arahkan wajah ke dalam<span>&nbsp;</span><em>frame<span>&nbsp;</span></em>sesuai dengan petunjuk</li></ul><p>Kelebihan yang ditawarkan adalah bisa membeli barang di Shopee dan membayarnya nanti dengan cicilan hingga 12 bulan dan limit hingga Rp 50 juta.</p><p>Cara bayar Shopee PayLater ini sangat mudah, klik saya, ShopeePayLater, pilih pembayaran ShopeePay, Indomaret, atau<span>&nbsp;</span><em>virtual account</em><span>&nbsp;</span>yang akan diingatkan setiap tanggal 25. Sebab, jika melewati tanggal tersebut akan dikenakan denda sebesar 5% dari total tagihan.</p>",
       "logoUrl": "https://png.pngtree.com/png-vector/20220622/ourmid/pngtree-e-wallet-color-icon-vector-isolated-png-image_5254352.png",
       "shortContent": "Shopee PayLater adalah salah satu alat pembayaran untuk Shopee dan punya fitur PayLater."
     },
-     {
+    {
       "id": "a3-c2",
       "categoryId": "c2",
       "title": "Kredivo PayLater",
-      "content": "<p>Kredivo merupakan salah satu aplikasi penyedia PayLater. Layanan ini memberikan kemudahan untuk beli sekarang dan bayar nanti dalam 30 hari atau cicilan 3 bulan dengan bunga 0% ataupun dengan cicilan 6, 12, 18 dan 24 bulan dengan bunga 2.6% per bulan.</p>
-<p>Cara Mendaftar<span>&nbsp;</span>Kredivo<span>&nbsp;</span>adalah dengan cara mengunduh aplikasinya di Playstore atau AppStore dan meminta persetujuan.&nbsp;Untuk mendaftar Kredivo, ada beberapa syarat yang harus dipenuhi yaitu :</p>
-<ul>
-<li>WNI</li>
-<li>Usia 18 - 60 tahun</li>
-<li>Tinggal di Indonesia</li>
-<li>Berpenghasilan minimal Rp 3.000.000 per bulan</li>
-</ul>
-<p>Kelebihan yang ditawarkan adalah<span>&nbsp;</span><em>fintech<span>&nbsp;</span></em>dengan aplikasi yang ditawarkan oleh<span>&nbsp;</span><em>merchants<span>&nbsp;</span></em>yang bekerja sama.</p>",
+      "content": "<p>Kredivo merupakan salah satu aplikasi penyedia PayLater. Layanan ini memberikan kemudahan untuk beli sekarang dan bayar nanti dalam 30 hari atau cicilan 3 bulan dengan bunga 0% ataupun dengan cicilan 6, 12, 18 dan 24 bulan dengan bunga 2.6% per bulan.</p><p>Cara Mendaftar<span>&nbsp;</span>Kredivo<span>&nbsp;</span>adalah dengan cara mengunduh aplikasinya di Playstore atau AppStore dan meminta persetujuan.&nbsp;Untuk mendaftar Kredivo, ada beberapa syarat yang harus dipenuhi yaitu :</p><ul><li>WNI</li><li>Usia 18 - 60 tahun</li><li>Tinggal di Indonesia</li><li>Berpenghasilan minimal Rp 3.000.000 per bulan</li></ul><p>Kelebihan yang ditawarkan adalah<span>&nbsp;</span><em>fintech<span>&nbsp;</span></em>dengan aplikasi yang ditawarkan oleh<span>&nbsp;</span><em>merchants<span>&nbsp;</span></em>yang bekerja sama.</p>",
       "logoUrl": "https://png.pngtree.com/png-vector/20220622/ourmid/pngtree-e-wallet-color-icon-vector-isolated-png-image_5254352.png",
       "shortContent": "Kredivo merupakan salah satu aplikasi penyedia PayLater. Layanan ini."
     },
-     {
+    {
       "id": "a4-c2",
       "categoryId": "c2",
       "title": "Akulaku PayLater",
-      "content": "<p>Akulaku<span>&nbsp;</span>yang merupakan alat pembayaran masa kini juga mengeluarkan PayLater. Sudah ada lebih dari 1000<span>&nbsp;</span><em>merchant<span>&nbsp;</span></em>yang bergabung di Akulaku.</p>
-<p>Beberapa keuntungan yang ditawarkan seperti tenor panjang dan fleksibel hingga 15 bulan. Dengan aplikasi Paylater ini Anda bisa juga melakukan<span>&nbsp;</span><em>top up</em><span>&nbsp;</span>pulsa, membeli paket data internet, tiket pesawat hingga<span>&nbsp;</span><em>voucher<span>&nbsp;</span></em>hiburan.</p>
-<p>Tarif biaya admin pesanan awal adalah 1.5%. Seiring dengan bertambahnya jumlah pesanan, tarif biaya juga akan menurun secara bertahap. Tarif biaya admin terendah bisa mencapai 0.5%</p>
-<p>Anda bisa gunakan pembayaran dengan Akulaku di berbagai<span>&nbsp;</span><em>platform e-commerce</em>, seperti Shopee, BukaLapak, Blibli, dan masih banyak lainnya. Cara Mendaftarnya mudah seperti pendaftaran aplikasi yang lain dengan mengajukan permintaan dan menunggu disetujui.</p>",
+      "content": "<p>Akulaku<span>&nbsp;</span>yang merupakan alat pembayaran masa kini juga mengeluarkan PayLater. Sudah ada lebih dari 1000<span>&nbsp;</span><em>merchant<span>&nbsp;</span></em>yang bergabung di Akulaku.</p><p>Beberapa keuntungan yang ditawarkan seperti tenor panjang dan fleksibel hingga 15 bulan. Dengan aplikasi Paylater ini Anda bisa juga melakukan<span>&nbsp;</span><em>top up</em><span>&nbsp;</span>pulsa, membeli paket data internet, tiket pesawat hingga<span>&nbsp;</span><em>voucher<span>&nbsp;</span></em>hiburan.</p><p>Tarif biaya admin pesanan awal adalah 1.5%. Seiring dengan bertambahnya jumlah pesanan, tarif biaya juga akan menurun secara bertahap. Tarif biaya admin terendah bisa mencapai 0.5%</p><p>Anda bisa gunakan pembayaran dengan Akulaku di berbagai<span>&nbsp;</span><em>platform e-commerce</em>, seperti Shopee, BukaLapak, Blibli, dan masih banyak lainnya. Cara Mendaftarnya mudah seperti pendaftaran aplikasi yang lain dengan mengajukan permintaan dan menunggu disetujui.</p>",
       "logoUrl": "https://png.pngtree.com/png-vector/20220622/ourmid/pngtree-e-wallet-color-icon-vector-isolated-png-image_5254352.png",
       "shortContent": "Akulaku yang merupakan alat pembayaran masa kini juga mengeluarkan PayLater."
     },
-     {
+    {
       "id": "a5-c2",
       "categoryId": "c2",
       "title": "Home Credit",
-      "content": "<p>Home Credit<span>&nbsp;</span>juga merupakan lembaga pembayaran yang memiliki fitur PayLater. Cara Mendaftarnya yaitu dengan mempersiapkan KTP seperti pada pendaftaran aplikasi PayLater yang lainnya.</p>
-<p>Berikut cara daftar Home Credit :</p>
-<ul>
-<li>Download aplikasi My Home Credit</li>
-<li>Masukkan Data (tanggal lahir sesuai KTP, nomor hp aktif, PIN)</li>
-<li>Tulis Kode Verifikasi yang akan dikirim ke nomor hp</li>
-</ul>
-<p>Kelebihan yang ditawarkan ini yaitu dengan adanya fitur pengecekan BI checking dan telah banyak digunakan oleh banyak orang. Merchants yang bekerja sama dengan Home Credit ini banyak sekali, yang biasanya bisa dilihat pada detail pemesanan, apakah dilanjutkan dengan metode yang lain atau menggunakan Home Credit ini.</p>
-<p>Beberapa merchant Home Credit mencakup Erafone, iBox, Electronic City, Hypermart, Informa, IKEA dan sebagainya.</p>",
+      "content": "<p>Home Credit<span>&nbsp;</span>juga merupakan lembaga pembayaran yang memiliki fitur PayLater. Cara Mendaftarnya yaitu dengan mempersiapkan KTP seperti pada pendaftaran aplikasi PayLater yang lainnya.</p><p>Berikut cara daftar Home Credit :</p><ul><li>Download aplikasi My Home Credit</li><li>Masukkan Data (tanggal lahir sesuai KTP, nomor hp aktif, PIN)</li><li>Tulis Kode Verifikasi yang akan dikirim ke nomor hp</li></ul><p>Kelebihan yang ditawarkan ini yaitu dengan adanya fitur pengecekan BI checking dan telah banyak digunakan oleh banyak orang. Merchants yang bekerja sama dengan Home Credit ini banyak sekali, yang biasanya bisa dilihat pada detail pemesanan, apakah dilanjutkan dengan metode yang lain atau menggunakan Home Credit ini.</p><p>Beberapa merchant Home Credit mencakup Erafone, iBox, Electronic City, Hypermart, Informa, IKEA dan sebagainya.</p>",
       "logoUrl": "https://png.pngtree.com/png-vector/20220622/ourmid/pngtree-e-wallet-color-icon-vector-isolated-png-image_5254352.png",
       "shortContent": "Home Creditmjuga merupakan lembaga pembayaran yang memiliki fitur PayLater."
     },
-     {
+    {
       "id": "a6-c2",
       "categoryId": "c2",
       "title": "Traveloka PayLater",
-      "content": "<p>Selanjutnya Traveloka yang merupakan aplikasi Travel juga mengeluarkan PayLater. Cara mendaftar PayLater Traveloka juga hanya membutuhkan pengajuan dengan menggunakan KTP. Caranya sebagai berikut :Buka aplikasi Traveloka, lalu pilih PayLater</p>
-<ul>
-<li>Lengkapi informasi yang dibutuhkan</li>
-<li>Siapkan KTP dan<span>&nbsp;</span><em>selfie<span>&nbsp;</span></em>untuk verifikasi</li>
-<li>Setelah disetujui, aktifkan akun</li>
-</ul>
-<p>Kelebihan yang ditawarkan dari<span>&nbsp;</span>Traveloka<span>&nbsp;</span>yaitu kemudahan untuk membeli produk-produk Traveloka tanpa harus membayarnya di hari yang bersamaan.</p>
-<p><em>Merchants</em><span>&nbsp;</span>yang bekerja sama dengan Traveloka adalah semua produk di Traveloka seperti pesawat, kereta, bus, tempat wisata, dan lain sebagainya yang bisa dibayarkan dengan pembelian aplikasi ini saja.&nbsp;</p>
-<p>Termasuk bisa digunakan untuk transaksi di<span>&nbsp;</span><em>e-commerce</em><span>&nbsp;</span>dan toko-toko<span>&nbsp;</span><em>online<span>&nbsp;</span></em>lainnya. Bunga PayLater sebesar 2.25%-4.80% per bulan. Biaya tersebut diberlakukan untuk pengguna yang melakukan cicilan bulanan dan berlaku<span>&nbsp;</span><em>flat<span>&nbsp;</span></em>atau rata untuk setiap bulannya.</p>",
+      "content": "<p>Selanjutnya Traveloka yang merupakan aplikasi Travel juga mengeluarkan PayLater. Cara mendaftar PayLater Traveloka juga hanya membutuhkan pengajuan dengan menggunakan KTP. Caranya sebagai berikut :Buka aplikasi Traveloka, lalu pilih PayLater</p><ul><li>Lengkapi informasi yang dibutuhkan</li><li>Siapkan KTP dan<span>&nbsp;</span><em>selfie<span>&nbsp;</span></em>untuk verifikasi</li><li>Setelah disetujui, aktifkan akun</li></ul><p>Kelebihan yang ditawarkan dari<span>&nbsp;</span>Traveloka<span>&nbsp;</span>yaitu kemudahan untuk membeli produk-produk Traveloka tanpa harus membayarnya di hari yang bersamaan.</p><p><em>Merchants</em><span>&nbsp;</span>yang bekerja sama dengan Traveloka adalah semua produk di Traveloka seperti pesawat, kereta, bus, tempat wisata, dan lain sebagainya yang bisa dibayarkan dengan pembelian aplikasi ini saja.&nbsp;</p><p>Termasuk bisa digunakan untuk transaksi di<span>&nbsp;</span><em>e-commerce</em><span>&nbsp;</span>dan toko-toko<span>&nbsp;</span><em>online<span>&nbsp;</span></em>lainnya. Bunga PayLater sebesar 2.25%-4.80% per bulan. Biaya tersebut diberlakukan untuk pengguna yang melakukan cicilan bulanan dan berlaku<span>&nbsp;</span><em>flat<span>&nbsp;</span></em>atau rata untuk setiap bulannya.</p>",
       "logoUrl": "https://png.pngtree.com/png-vector/20220622/ourmid/pngtree-e-wallet-color-icon-vector-isolated-png-image_5254352.png",
       "shortContent": "Selanjutnya Traveloka yang merupakan aplikasi Travel juga mengeluarkan PayLater."
     },
-     {
+    {
       "id": "a7-c2",
       "categoryId": "c2",
       "title": "Indodana",
-      "content": "<p>Indodana adalah salah satu penyedia kredit<span>&nbsp;</span><em>online</em>. Cara Mendaftar<span>&nbsp;</span>Indodana<span>&nbsp;</span>adalah dengan mengunduh aplikasi dan mendaftarkan diri dengan menyetujui berbagai syarat dan ketentuan yang berlaku.</p>
-<div class="ads" id="ads_7" bis_skin_checked="1">
-<div id="ats-insert_ads-6-wrapper" class="insert_ads insert_ads-14 show_advertisement rendered" bis_skin_checked="1">
-<div bis_skin_checked="1"></div>
-</div>
-</div>
-<p>Berikut cara daftar di Indodana :</p>
-<ul>
-<li>Download aplikasi Indodana Finance</li>
-<li>Masukkan Nomor HP</li>
-<li>Lakukan verifikasi nomor telepon</li>
-<li>Pilih PayLater pada menu utama</li>
-<li>Dapatkan limit dengan mengisi formulir pendaftaran dan menggungah data-data yang diperlukan.</li>
-<li>Tunggu proses verifikasi dan layanan PayLater bisa segera digunakan</li>
-</ul>
-<p>Adapun syarat-syaratnya mencakup WNI, usia 20-65 tahun, memiliki penghasilan minimum Rp 3.500.000, KTP, memiliki penghasilan tetap dan telah bekerja minimal 3 bulan. Kelebihan yang ditawarkan adalah limit kredit hingga Rp 30 juta, bisa dibayar dalam 30 hari atau cicilan 3/6/12 bulan.</p>",
+      "content": "<p>Indodana adalah salah satu penyedia kredit<span>&nbsp;</span><em>online</em>. Cara Mendaftar<span>&nbsp;</span>Indodana<span>&nbsp;</span>adalah dengan mengunduh aplikasi dan mendaftarkan diri dengan menyetujui berbagai syarat dan ketentuan yang berlaku.</p><p>Berikut cara daftar di Indodana :</p><ul><li>Download aplikasi Indodana Finance</li><li>Masukkan Nomor HP</li><li>Lakukan verifikasi nomor telepon</li><li>Pilih PayLater pada menu utama</li><li>Dapatkan limit dengan mengisi formulir pendaftaran dan menggungah data-data yang diperlukan.</li><li>Tunggu proses verifikasi dan layanan PayLater bisa segera digunakan</li></ul><p>Adapun syarat-syaratnya mencakup WNI, usia 20-65 tahun, memiliki penghasilan minimum Rp 3.500.000, KTP, memiliki penghasilan tetap dan telah bekerja minimal 3 bulan. Kelebihan yang ditawarkan adalah limit kredit hingga Rp 30 juta, bisa dibayar dalam 30 hari atau cicilan 3/6/12 bulan.</p>",
       "logoUrl": "https://png.pngtree.com/png-vector/20220622/ourmid/pngtree-e-wallet-color-icon-vector-isolated-png-image_5254352.png",
       "shortContent": "Indodana adalah salah satu penyedia kredit online."
     },
-     {
+    {
       "id": "a8-c2",
       "categoryId": "c2",
       "title": "BRI Ceria",
-      "content": "<p>BRI ceria juga merupakan alat penyedia kredit online. Cara mendaftar<span>&nbsp;</span>BRI Ceria<span>&nbsp;</span>sangat mudah, yaitu dengan mengunduhnya di PlayStore, registrasi, dan ajukan pinjaman, jika lolos maka langsung dapat pinjaman.</p>
-<p>Syarat pengajuan BRI Ceria :</p>
-<ul>
-<li>Dilakukan secara<span>&nbsp;</span><em>online<span>&nbsp;</span></em>melalui aplikasi CERIA</li>
-<li>WNI</li>
-<li>Memiliki rekening simpanan di BRI</li>
-<li>Usia 21 - 50 tahun</li>
-<li>KTP</li>
-</ul>
-<p>Cara registrasi BRI Ceria :</p>
-<ul>
-<li>Donwload aplikasi Ceria lalu buka</li>
-<li>Masukkan nomor hp lalu sign up</li>
-<li>Masukkan kode OTP yang dikirim ke hp</li>
-<li>Buat PIN lalu konfirmasi PIN</li>
-<li>Selesai</li>
-</ul>
-<p>Kelebihan yang ditawarkan adalah proses pengajuan kurang dari 10 menit, bunga cicilan 1,42%<span>&nbsp;</span><em>flat<span>&nbsp;</span></em>per bulan, limit kredit Rp 500 ribu &ndash; Rp 20 Juta, bersifat<span>&nbsp;</span><em>revolving<span>&nbsp;</span></em>(sesuai dengan penggunaan dan pembayaran tagihan) dan jangka waktu cicilan 1-12 bulan.</p>
-<p><em>Merchants<span>&nbsp;</span></em>yang bekerja sama dengan BRI Ceria adalah berbagai<span>&nbsp;</span><em>e-commerce</em><span>&nbsp;</span>Indonesia. Beberapa<span>&nbsp;</span><em>merchant<span>&nbsp;</span></em>yang bisa menggunakan aplikasi BR Ceria seperti Tokopedia, Blibli, Bukalapak, Dinomarket, MyHartono dan lainnya.</p>",
+      "content": "<p>BRI ceria juga merupakan alat penyedia kredit online. Cara mendaftar<span>&nbsp;</span>BRI Ceria<span>&nbsp;</span>sangat mudah, yaitu dengan mengunduhnya di PlayStore, registrasi, dan ajukan pinjaman, jika lolos maka langsung dapat pinjaman.</p><p>Syarat pengajuan BRI Ceria :</p><ul><li>Dilakukan secara<span>&nbsp;</span><em>online<span>&nbsp;</span></em>melalui aplikasi CERIA</li><li>WNI</li><li>Memiliki rekening simpanan di BRI</li><li>Usia 21 - 50 tahun</li><li>KTP</li></ul><p>Cara registrasi BRI Ceria :</p><ul><li>Donwload aplikasi Ceria lalu buka</li><li>Masukkan nomor hp lalu sign up</li><li>Masukkan kode OTP yang dikirim ke hp</li><li>Buat PIN lalu konfirmasi PIN</li><li>Selesai</li></ul><p>Kelebihan yang ditawarkan adalah proses pengajuan kurang dari 10 menit, bunga cicilan 1,42%<span>&nbsp;</span><em>flat<span>&nbsp;</span></em>per bulan, limit kredit Rp 500 ribu &ndash; Rp 20 Juta, bersifat<span>&nbsp;</span><em>revolving<span>&nbsp;</span></em>(sesuai dengan penggunaan dan pembayaran tagihan) dan jangka waktu cicilan 1-12 bulan.</p><p><em>Merchants<span>&nbsp;</span></em>yang bekerja sama dengan BRI Ceria adalah berbagai<span>&nbsp;</span><em>e-commerce</em><span>&nbsp;</span>Indonesia. Beberapa<span>&nbsp;</span><em>merchant<span>&nbsp;</span></em>yang bisa menggunakan aplikasi BR Ceria seperti Tokopedia, Blibli, Bukalapak, Dinomarket, MyHartono dan lainnya.</p>",
       "logoUrl": "https://png.pngtree.com/png-vector/20220622/ourmid/pngtree-e-wallet-color-icon-vector-isolated-png-image_5254352.png",
       "shortContent": ">BRI ceria juga merupakan alat penyedia kredit online."
+    },
+    {
+      "id": "a2-c3",  
+      "categoryId": "c3",
+      "title": "Danamas",
+      "content": "<p>Danamas adalah salah satu contoh pinjaman online yang menawarkan limit pinjaman hingga Rp7.5 juta dengan tenor mulai dari 3 hingga 6 bulan.&nbsp;</p><p>Pinjaman online ini sangat cepat dalam mencairkan dana setelah proses verifikasi selesai, menjadikannya pilihan yang tepat ketika Anda membutuhkan uang tunai dalam waktu singkat.&nbsp;</p><p>Selain itu, Danamas sudah terdaftar di OJK dan memiliki afiliasi dengan Asosiasi Fintech Pendanaan Bersama Indonesia (AFPI), sehingga Anda bisa merasa tenang dan aman.</p><p>Bunga pinjaman di Danamas dimulai dari 14% per tahun (APR 17%), yang masih tergolong rendah untuk pinjaman tanpa agunan.</p>",
+      "logoUrl": "https://png.pngtree.com/png-clipart/20191120/original/pngtree-5-minutes-icon-simple-style-png-image_5080360.jpg",
+      "shortContent": ">Danamas adalah salah satu contoh pinjaman online yang menawarkan."
+    },
+    {
+      "id": "a3-c3", 
+      "categoryId": "c3",
+      "title": "Kredit Pintar",
+      "content": "<p>Selanjutnya, ada Kredit Pintar yang menawarkan kemudahan dalam pengajuan pinjaman.&nbsp;</p><p>Proses pengajuan yang dilakukan di platform ini cukup praktis. Anda hanya perlu mengisi data diri, mengunggah foto KTP, dan menunggu verifikasi yang biasanya tidak memakan waktu lama.&nbsp;</p><p>Begitu pinjaman Anda disetujui,&nbsp;<strong>dana pinjaman akan segera cair ke rekening</strong><span>&nbsp;</span>Anda dalam waktu kurang dari 5 menit.&nbsp;</p><p>Dengan pengawasan OJK, Kredit Pintar menjamin transaksi yang aman dan transparan, serta memberikan fleksibilitas dalam pembayaran tagihan yang bisa dilakukan melalui berbagai metode seperti ATM, M-Banking, dan bahkan di minimarket seperti Alfamart.</p>",
+      "logoUrl": "https://png.pngtree.com/png-clipart/20191120/original/pngtree-5-minutes-icon-simple-style-png-image_5080360.jpg",
+      "shortContent": ">Selanjutnya, ada Kredit Pintar yang menawarkan kemudahan."
+    },
+    {
+      "id": "a4-c3", 
+      "categoryId": "c3",
+      "title": "Dana Rupiah",
+      "content": "<p>Dana Rupiah merupakan platform pinjaman online yang terkenal dengan proses verifikasi yang cepat.&nbsp;</p><p>Dalam waktu 5 menit, sistem otomatis akan melakukan verifikasi data Anda, dan apabila disetujui, dana akan cair ke rekening Anda dalam waktu 24 jam.&nbsp;</p><p>Pinjol ini sudah terdaftar di OJK dan menawarkan suku bunga maksimum sebesar 36% per tahun (APR).</p><p>Dana Rupiah memberikan kenyamanan dengan memungkinkan pembayaran pinjaman Anda melalui transfer bank atau M-Banking, sehingga memudahkan Anda dalam melunasi pinjaman sesuai jadwal yang telah ditentukan.</p>",
+      "logoUrl": "https://png.pngtree.com/png-clipart/20191120/original/pngtree-5-minutes-icon-simple-style-png-image_5080360.jpg",
+      "shortContent": ">Dana Rupiah merupakan platform pinjaman online yang terkenal."
+    },
+    {
+      "id": "a5-c3", 
+      "categoryId": "c3",
+      "title": "AdaKami",
+      "content": "<p>AdaKami menawarkan pinjaman hingga Rp80 juta tanpa memerlukan jaminan.</p><p>Apabila Anda meminjam yang di pinjol ini, tersedia pilihan tenor yang fleksibel, mulai dari 3 bulan hingga 12 bulan, dengan suku bunga maksimum 36% per tahun (APR).&nbsp;</p><p>Selain itu, AdaKami telah terdaftar dan diawasi oleh OJK, memastikan Anda mendapatkan&nbsp;<strong>layanan pinjaman yang legal dan aman</strong>.&nbsp;</p><p>Anda juga akan dikenakan biaya layanan sebesar 1.42% dari pokok pinjaman, yang sudah tercantum dengan jelas dalam perjanjian.</p>",
+      "logoUrl": "https://png.pngtree.com/png-clipart/20191120/original/pngtree-5-minutes-icon-simple-style-png-image_5080360.jpg",
+      "shortContent": ">AdaKami menawarkan pinjaman hingga Rp80 juta."
+    },
+    {
+      "id": "a6-c3", 
+      "categoryId": "c3",
+      "title": "KTA Kilat",
+      "content": "<p>KTA Kilat menawarkan pinjaman tunai yang dapat Anda ajukan tanpa jaminan apapun.&nbsp;</p><p>Pinjaman online ini terdaftar di OJK dan memberikan limit pinjaman hingga Rp9 juta dengan tenor yang dapat disesuaikan antara 91 hingga 180 hari.&nbsp;</p><p>Proses pengajuan pinjaman di KTA Kilat sangat mudah karena Anda hanya perlu mengunduh aplikasi, mengisi formulir, dan dana akan langsung dicairkan setelah disetujui.&nbsp;</p><p>Bunga pinjaman di KTA Kilat juga cukup rendah, dengan maksimum APR 19% per tahun.&nbsp;</p><p>Pembayaran cicilan pinjaman di KTA Kilat bisa Anda lakukan melalui berbagai bank dan minimarket yang bekerja sama dengan platform ini, memberikan kemudahan bagi Anda untuk melunasi pinjaman.</p>",
+      "logoUrl": "https://png.pngtree.com/png-clipart/20191120/original/pngtree-5-minutes-icon-simple-style-png-image_5080360.jpg",
+      "shortContent": ">KTA Kilat menawarkan pinjaman tunai yang dapat."
+    },
+    {
+      "id": "a7-c3", 
+      "categoryId": "c3",
+      "title": "Tokomodal",
+      "content": "<p>Tokomodal merupakan aplikasi pinjaman online yang menyediakan layanan&nbsp;<strong>pinjaman uang dengan limit cukup tinggi</strong><span>&nbsp;</span>mulai dari Rp300.000 hingga Rp200 juta.&nbsp;</p><p class=\"MuiTypography-root MuiTypography-body2 mui-style-tqxaqr\">Dengan tenor yang fleksibel antara 60 hingga 360 hari, Tokomodal menawarkan suku bunga tahunan maksimum sebesar 10%.</p><p>Selain itu, Tokomodal terdaftar di OJK dan telah mendapatkan sertifikasi ISO 27001:2013, yang menjamin keamanan data dan transaksi Anda sebagai pengguna.&nbsp;</p><p>Pinjaman online ini juga mempermudah pembayaran pinjaman dengan biaya keterlambatan yang sangat jelas, yakni 0.10% per hari.</p>",
+      "logoUrl": "https://png.pngtree.com/png-clipart/20191120/original/pngtree-5-minutes-icon-simple-style-png-image_5080360.jpg",
+      "shortContent": ">Tokomodal merupakan aplikasi pinjaman online yang menyediakan layanan."
+    },
+    {
+      "id": "a8-c3", 
+      "categoryId": "c3",
+      "title": "Tunaiku",
+      "content": "<p>Tunaiku adalah pilihan yang sangat tepat bagi Anda yang membutuhkan pinjaman besar, hingga Rp30 juta.&nbsp;</p><p>Pinjaman online ini menawarkan pinjaman dengan tenor cicilan yang panjang, mulai dari 6 hingga 30 bulan, sehingga Anda dapat mengatur pembayaran sesuai kemampuan finansial.&nbsp;</p><p>Tunaiku terdaftar dan diawasi oleh OJK, yang artinya mereka komitmen untuk menjaga keamanan data Anda sebagai peminjam dana.&nbsp;</p><p><strong>Bunga pinjaman yang dikenakan cukup rendah</strong><span>&nbsp;</span>berkisar antara 3 hingga 5% per bulan, dan biaya keterlambatan sebesar Rp150.000 per bulan.&nbsp;</p><p>Dengan proses yang cepat, dana pinjaman di Tunaiku akan cair ke rekening Anda dalam waktu kurang dari 24 jam setelah disetujui.</p>",
+      "logoUrl": "https://png.pngtree.com/png-clipart/20191120/original/pngtree-5-minutes-icon-simple-style-png-image_5080360.jpg",
+      "shortContent": ">Tunaiku adalah pilihan yang sangat tepat bagi Anda yang membutuhkan."
     }
   ]
 }
