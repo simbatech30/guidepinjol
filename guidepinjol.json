@@ -3,14 +3,19 @@
   "version": "1.0.0",
   "categories": [
     {
-      "id": "c1-github",
-      "title": "Dasar Pemrograman (GitHub)",
+      "id": "c1",
+      "title": "Pinjam Dana",
       "imageUrl": "https://awsimages.detik.net.id/visual/2023/11/15/pinjol-paling-banyak-utangi-warga-ri_169.png?w=650"
     },
     {
-      "id": "c2-github",
-      "title": "Flutter Keren (GitHub)",
-      "imageUrl": "https://via.placeholder.com/300x150/4682B4/FFFFFF?Text=Flutter+GitHub"
+      "id": "c2",
+      "title": "Pinjaman E-Wallet",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf-Bz530XcJou3kmM84F88ZuWAiaO-iWr2Gw&s"
+    },
+    {
+      "id": "c3",
+      "title": "pinjaman cair 5 menit",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPaIynJ2p1hCyMuZE_UN1VHb2UviQlZwcjyQ&s"
     }
   ],
   "articles": [
