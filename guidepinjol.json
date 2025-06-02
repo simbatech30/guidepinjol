@@ -5,17 +5,17 @@
     {
       "id": "c1",
       "title": "Pinjam Dana",
-      "imageUrl": "https://awsimages.detik.net.id/visual/2023/11/15/pinjol-paling-banyak-utangi-warga-ri_169.png?w=650"
+      "imageUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/dana.png"
     },
     {
       "id": "c2",
       "title": "Pinjaman E-Wallet",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf-Bz530XcJou3kmM84F88ZuWAiaO-iWr2Gw&s"
+      "imageUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/ewallet.png"
     },
     {
       "id": "c3",
       "title": "Pinjaman Cair 5 Menit",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPaIynJ2p1hCyMuZE_UN1VHb2UviQlZwcjyQ&s"
+      "imageUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/min.png"
     }
   ],
   "articles": [
