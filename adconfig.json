@@ -1,10 +1,10 @@
 {
-  "adsGloballyEnabled": false,
+  "adsGloballyEnabled": true,
   "adUnitIds": {
     "android": {
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "appOpen": "ca-app-pub-3940256099942544/9257395921"
+      "banner": "ca-app-pub-3201368490977779/3740789059",
+      "interstitial": "ca-app-pub-3201368490977779/7939070270",
+      "appOpen": "ca-app-pub-3201368490977779/7105093653"
     },
     "ios": {
       "banner": "ca-app-pub-YOUR_REAL_IOS_BANNER_ID_OR_TEST_ID",
