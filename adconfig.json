@@ -2,9 +2,9 @@
   "adsGloballyEnabled": true,
   "adUnitIds": {
     "android": {
-      "banner": "ca-app-pub-7152831960123369/7819251396",
-      "interstitial": "ca-app-pub-7152831960123369/3975939801",
-      "appOpen": "ca-app-pub-7152831960123369/4075447508"
+      "banner": "ca-app-pub-4144720939137783/7953755406",
+      "interstitial": "ca-app-pub-4144720939137783/6977399869",
+      "appOpen": "ca-app-pub-4144720939137783/6640673739"
     },
     "ios": {
       "banner": "ca-app-pub-YOUR_REAL_IOS_BANNER_ID_OR_TEST_ID",
@@ -14,14 +14,14 @@
   },
   "fallbackTestIds": { 
     "android": {
-      "banner": "ca-app-pub-7152831960123369/7819251396",
-      "interstitial": "ca-app-pub-7152831960123369/3975939801",
-      "appOpen": "ca-app-pub-7152831960123369/4075447508"
+      "banner": "ca-app-pub-4144720939137783/7953755406",
+      "interstitial": "ca-app-pub-4144720939137783/6977399869",
+      "appOpen": "ca-app-pub-4144720939137783/6640673739"
     },
     "ios": {
-      "banner": "ca-app-pub-7152831960123369/7819251396",
-      "interstitial": "ca-app-pub-7152831960123369/3975939801",
-      "appOpen": "ca-app-pub-7152831960123369/4075447508"
+      "banner": "ca-app-pub-4144720939137783/7953755406",
+      "interstitial": "ca-app-pub-4144720939137783/6977399869",
+      "appOpen": "ca-app-pub-4144720939137783/6640673739"
     }
   }
 }
