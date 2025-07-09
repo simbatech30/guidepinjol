@@ -1,0 +1,25 @@
+{
+  "adsGloballyEnabled": true,
+  "admob": {
+    "android": {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "appOpen": "ca-app-pub-3940256099942544/9257395921"
+    },
+    "ios": {
+      "banner": "ca-app-pub-3940256099942544/2934735716",
+      "interstitial": "ca-app-pub-3940256099942544/4411468910",
+      "appOpen": "ca-app-pub-3940256099942544/5575463023"
+    }
+  },
+  "fan": {
+    "android": {
+      "banner": "YOUR_ANDROID_FAN_BANNER_PLACEMENT_ID",
+      "interstitial": "YOUR_ANDROID_FAN_INTERSTITIAL_PLACEMENT_ID"
+    },
+    "ios": {
+      "banner": "YOUR_IOS_FAN_BANNER_PLACEMENT_ID",
+      "interstitial": "YOUR_IOS_FAN_INTERSTITIAL_PLACEMENT_ID"
+    }
+  }
+}
