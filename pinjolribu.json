@@ -5,17 +5,17 @@
     {
       "id": "c1",
       "title": "Pinjaman Dana Apps",
-      "imageUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/dana.png"
+      "imageUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/tabdana.png"
     },
     {
       "id": "c2",
       "title": "Paylater E-Wallet Cair",
-      "imageUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/ewallet.png"
+      "imageUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/tabpaylater.png"
     },
     {
       "id": "c3",
       "title": "Pinjaman 500 Ribu",
-      "imageUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/min.png"
+      "imageUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/tab500ribu.png"
     }
   ],
   "articles": [
@@ -24,7 +24,7 @@
       "categoryId": "c1",
       "title": "Apa Itu Pinjaman DANA?",
       "content": "<p>Pinjaman DANA adalah layanan pinjaman online yang disediakan oleh aplikasi DANA bekerja sama dengan lembaga keuangan resmi. Layanan ini memungkinkan pengguna DANA untuk memperoleh pinjaman jangka pendek dengan proses pengajuan yang cepat dan mudah melalui aplikasi.</p><p>Beberapa karakteristik utama dari Pinjaman DANA antara lain:</p><ul><li>Pinjaman tanpa agunan (KTA)</li><li>Proses pengajuan 100% online melalui aplikasi</li><li>Pencairan dana cepat (dalam hitungan menit jika disetujui)</li><li>Limit pinjaman mulai dari Rp500 ribu hingga Rp15 juta</li><li>Jangka waktu pinjaman 30 hari</li><li>Bunga kompetitif dibandingkan pinjaman online lainnya</li></ul><p>Pinjaman DANA ditujukan untuk memenuhi kebutuhan dana jangka pendek pengguna, seperti kebutuhan mendesak, modal usaha kecil, atau overdrawn sementara. Namun perlu diingat bahwa seperti produk pinjaman lainnya, Pinjaman DANA tetap memiliki bunga dan biaya yang harus dibayarkan, sehingga pengguna perlu bijak dalam memanfaatkannya.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/loan.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icondana.png",
       "shortContent": "Pinjaman DANA adalah layanan pinjaman online yang disediakan"
     },
     {
@@ -32,7 +32,7 @@
       "categoryId": "c1",
       "title": "Syarat Pinjaman DANA",
       "content": "<p>Sebelum mengajukan Pinjaman DANA, pastikan Anda memenuhi syarat-syarat berikut:</p><ul><li>Warga Negara Indonesia (WNI)</li><li>Berusia minimal 21 tahun dan maksimal 55 tahun</li><li>Memiliki KTP elektronik (e-KTP) yang masih berlaku</li><li>Memiliki rekening bank atas nama sendiri</li><li>Memiliki penghasilan tetap (karyawan atau wiraswasta)</li><li>Berdomisili di wilayah Indonesia</li><li>Memiliki akun DANA yang sudah terverifikasi (KYC)</li><li>Memiliki riwayat transaksi aktif di aplikasi DANA</li></ul><p>Selain persyaratan di atas, DANA juga akan melakukan penilaian kredit internal terhadap profil pengguna. Faktor-faktor yang dapat mempengaruhi persetujuan pinjaman antara lain:</p><ul><li>Riwayat transaksi di aplikasi DANA</li><li>Frekuensi penggunaan aplikasi DANA</li><li>Riwayat kredit dari biro kredit (jika ada)</li><li>Pekerjaan dan penghasilan</li><li>Usia dan status pernikahan</li></ul><p>Penting untuk diingat bahwa memenuhi semua persyaratan tidak menjamin persetujuan pinjaman. DANA berhak menolak pengajuan pinjaman berdasarkan penilaian internal mereka.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/loan.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icondana.png",
       "shortContent": "Sebelum mengajukan Pinjaman DANA, pastikan Anda memenuhi syarat."
     },
     {
@@ -40,7 +40,7 @@
       "categoryId": "c1",
       "title": "Cara Mengajukan Pinjaman di Aplikasi DANA",
       "content": "<p>Berikut adalah langkah-langkah untuk mengajukan Pinjaman DANA melalui aplikasi:</p><ol><li>Buka aplikasi DANA dan pastikan Anda sudah login</li><li>Pada halaman utama, scroll ke bawah dan cari menu \"Pinjaman\"</li><li>Klik menu \"Pinjaman\" untuk masuk ke halaman pengajuan</li><li>Baca syarat dan ketentuan yang berlaku, lalu klik \"Setuju\"</li><li>Pilih jumlah pinjaman yang diinginkan (sesuai limit yang ditawarkan)</li><li>Isi formulir pengajuan dengan data diri lengkap</li><li>Unggah foto KTP dan selfie dengan KTP</li><li>Isi data pekerjaan dan penghasilan</li><li>Pilih rekening bank untuk pencairan dana</li><li>Periksa kembali semua data yang diisi</li><li>Klik \"Ajukan Pinjaman\" untuk mengirim pengajuan</li></ol><p>Setelah pengajuan dikirim, DANA akan melakukan verifikasi dan analisis kredit. Proses ini biasanya memakan waktu beberapa menit hingga beberapa jam. Anda akan menerima notifikasi melalui aplikasi jika pinjaman disetujui atau ditolak.</p><p>Jika disetujui, dana pinjaman akan langsung ditransfer ke rekening bank yang Anda daftarkan. Pastikan data rekening bank yang diisi sudah benar untuk menghindari kegagalan transfer.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/loan.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icondana.png",
       "shortContent": "Berikut adalah langkah-langkah untuk mengajukan ."
     },
     {
@@ -48,7 +48,7 @@
       "categoryId": "c1",
       "title": "Limit Pinjaman DANA",
       "content": "<p>Limit pinjaman yang ditawarkan DANA bervariasi tergantung pada penilaian kredit pengguna. Secara umum, rentang limit pinjaman DANA adalah sebagai berikut:</p><ul><li>Limit minimum: Rp500.000</li><li>Limit maksimum: Rp15.000.000</li></ul><p>Untuk pengguna baru, biasanya limit pinjaman yang diberikan lebih rendah, misalnya Rp500.000 - Rp2.000.000. Seiring berjalannya waktu dan meningkatnya riwayat kredit, limit pinjaman dapat ditingkatkan.</p><p>Beberapa faktor yang mempengaruhi besarnya limit pinjaman antara lain:</p><ul><li>Riwayat transaksi di aplikasi DANA</li><li>Frekuensi penggunaan aplikasi DANA</li><li>Riwayat pembayaran pinjaman sebelumnya (jika pernah)</li><li>Pekerjaan dan penghasilan</li><li>Usia dan status pernikahan</li><li>Riwayat kredit dari biro kredit (jika ada)</li></ul><p>Penting untuk diingat bahwa limit pinjaman yang ditawarkan mungkin berbeda-beda untuk setiap pengguna. Anda dapat melihat limit pinjaman yang tersedia di akun Anda melalui menu Pinjaman di aplikasi DANA.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/loan.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icondana.png",
       "shortContent": "Limit pinjaman yang ditawarkan DANA bervariasi."
     },
     {
@@ -56,7 +56,7 @@
       "categoryId": "c1",
       "title": "Bunga dan Biaya Pinjaman DANA",
       "content": "<p>Pinjaman DANA mengenakan bunga dan biaya administrasi yang perlu diperhatikan sebelum mengajukan pinjaman. Berikut rincian bunga dan biaya Pinjaman DANA:</p><ul><li>Bunga: 0,1% - 0,3% per hari</li><li>Biaya administrasi: 5% - 8% dari jumlah pinjaman</li><li>Biaya keterlambatan: 0,5% per hari dari jumlah tunggakan</li></ul><p>Contoh perhitungan:</p><p>Misalkan Anda meminjam Rp1.000.000 dengan jangka waktu 30 hari dan bunga 0,2% per hari.</p><ul><li>Bunga: 0,2% x 30 hari x Rp1.000.000 = Rp60.000</li><li>Biaya administrasi (asumsi 5%): 5% x Rp1.000.000 = Rp50.000</li><li>Total yang harus dibayar: Rp1.000.000 + Rp60.000 + Rp50.000 = Rp1.110.000</li></ul><p>Perlu diingat bahwa bunga dan biaya dapat berubah sewaktu-waktu. Pastikan untuk memeriksa informasi terbaru di aplikasi DANA sebelum mengajukan pinjaman.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/loan.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icondana.png",
       "shortContent": "Pinjaman DANA mengenakan bunga dan biaya administrasi."
     },
     {
@@ -64,7 +64,7 @@
       "categoryId": "c1",
       "title": "FAQ Seputar Pinjaman DANA",
       "content": "<p>Berikut adalah beberapa pertanyaan yang sering diajukan terkait Pinjaman DANA beserta jawabannya:</p><ol><li>Apakah Pinjaman DANA aman?<ul><li>Ya, Pinjaman DANA dikelola oleh PT Espay Debit Indonesia Koe, perusahaan fintech yang terdaftar dan diawasi oleh OJK.</li><li>DANA menerapkan standar keamanan tinggi untuk melindungi data pengguna.</li><li>Namun, tetap berhati-hati dan jangan membagikan informasi akun kepada pihak lain.</li></ul></li><li>Berapa lama proses persetujuan Pinjaman DANA?<ul><li>Proses persetujuan biasanya hanya memakan waktu beberapa menit hingga beberapa jam.</li><li>Jika semua persyaratan terpenuhi dan data valid, persetujuan bisa sangat cepat.</li><li>Waktu persetujuan dapat lebih lama jika diperlukan verifikasi tambahan.</li></ul></li><li>Apa yang terjadi jika saya terlambat membayar?<ul><li>Anda akan dikenakan denda keterlambatan sebesar 0,5% per hari dari jumlah tunggakan.</li><li>Keterlambatan akan berdampak negatif pada skor kredit internal DANA.</li><li>Jika berlanjut, DANA dapat mengambil tindakan penagihan sesuai ketentuan yang berlaku.</li></ul></li><li>Apakah saya bisa melunasi pinjaman lebih awal?<ul><li>Ya, Anda dapat melunasi pinjaman sebelum jatuh tempo.</li><li>Tidak ada penalti untuk pelunasan lebih awal.</li><li>Bunga akan dihitung berdasarkan hari penggunaan aktual.</li></ul></li><li>Bagaimana jika pengajuan pinjaman saya ditolak?<ul><li>DANA akan memberitahu alasan penolakan secara umum.</li><li>Anda dapat mencoba mengajukan kembali setelah 30 hari.</li><li>Gunakan waktu tersebut untuk memperbaiki faktor yang mungkin menyebabkan penolakan.</li></ul></li><li>Apakah ada batasan penggunaan dana pinjaman?<ul><li>Tidak ada batasan spesifik untuk penggunaan dana pinjaman.</li><li>Namun, pastikan menggunakan dana secara bertanggung jawab dan sesuai kemampuan bayar.</li></ul></li><li>Bisakah saya memiliki lebih dari satu pinjaman DANA aktif?<ul><li>Umumnya, Anda hanya dapat memiliki satu pinjaman aktif pada satu waktu.</li><li>Anda perlu melunasi pinjaman sebelumnya sebelum mengajukan yang baru.</li></ul></li><li>Apakah Pinjaman DANA mempengaruhi limit DANA saya?<ul><li>Pinjaman DANA adalah produk terpisah dan tidak mempengaruhi limit transaksi DANA Anda.</li><li>Namun, riwayat pinjaman dapat mempengaruhi penilaian kredit internal DANA.</li></ul></li><li>Bagaimana jika saya kehilangan pekerjaan atau mengalami penurunan pendapatan?<ul><li>Segera hubungi layanan pelanggan DANA untuk mendiskusikan opsi yang tersedia.</li><li>DANA mungkin dapat menawarkan restrukturisasi atau perpanjangan jangka waktu.</li><li>Jangan menghindari komunikasi, karena hal ini dapat memperburuk situasi.</li></ul></li><li>Apakah ada program loyalitas untuk pengguna Pinjaman DANA?<ul><li>Saat ini belum ada program loyalitas khusus untuk Pinjaman DANA.</li><li>Namun, riwayat pinjaman yang baik dapat meningkatkan limit dan menurunkan bunga di masa depan.</li><li>DANA juga sering memberikan promo dan cashback untuk berbagai layanannya.</li></ul></li></ol><p>Penting untuk selalu merujuk pada informasi terbaru di aplikasi DANA atau website resmi mereka, karena kebijakan dan fitur dapat berubah seiring waktu. Jika Anda memiliki pertanyaan spesifik yang tidak tercantum di sini, jangan ragu untuk menghubungi layanan pelanggan DANA untuk mendapatkan informasi yang akurat dan terkini.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/loan.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icondana.png",
       "shortContent": "Berikut adalah beberapa pertanyaan yang sering."
     },
     {
@@ -72,7 +72,7 @@
       "categoryId": "c1",
       "title": "Jangka Waktu Pinjaman DANA",
       "content": "<p>Pinjaman DANA memiliki jangka waktu yang relatif singkat dibandingkan produk pinjaman konvensional. Berikut informasi terkait jangka waktu Pinjaman DANA:</p><ul><li>Jangka waktu standar: 30 hari</li><li>Perpanjangan: Maksimal 2 kali (total 90 hari)</li></ul><p>Beberapa hal yang perlu diperhatikan terkait jangka waktu pinjaman:</p><ol><li>Jangka waktu 30 hari dihitung sejak tanggal pencairan dana ke rekening Anda.</li><li>Jika Anda tidak dapat melunasi pinjaman dalam 30 hari, Anda dapat mengajukan perpanjangan maksimal 2 kali.</li><li>Setiap perpanjangan dikenakan biaya tambahan dan persetujuan dari pihak DANA.</li><li>Jika melewati batas waktu 90 hari (termasuk perpanjangan), pinjaman akan dianggap macet dan dapat berdampak pada skor kredit Anda.</li></ol><p>Mengingat jangka waktu yang singkat, pastikan Anda memiliki rencana pembayaran yang jelas sebelum mengajukan Pinjaman DANA. Jangan ragu untuk menghubungi layanan pelanggan DANA jika mengalami kesulitan dalam pembayaran.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/loan.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icondana.png",
       "shortContent": "Pinjaman DANA memiliki jangka waktu yang relatif singkat."
     },
     {
@@ -80,7 +80,7 @@
       "categoryId": "c1",
       "title": "Cara Pembayaran Pinjaman DANA",
       "content": "<p>DANA menyediakan beberapa metode pembayaran untuk memudahkan pengguna melunasi pinjamannya. Berikut adalah cara-cara yang dapat Anda gunakan untuk membayar Pinjaman DANA:</p><ol><li>Pembayaran melalui Saldo DANA:<ul><li>Buka aplikasi DANA dan masuk ke menu \"Pinjaman\"</li><li>Pilih pinjaman yang ingin dibayar</li><li>Klik \"Bayar Sekarang\"</li><li>Pilih metode pembayaran \"Saldo DANA\"</li><li>Konfirmasi pembayaran</li></ul></li><li>Transfer Bank:<ul><li>Transfer ke rekening virtual account yang diberikan DANA</li><li>Pastikan nominal transfer sesuai dengan jumlah tagihan</li><li>Pembayaran akan diproses otomatis setelah dana masuk</li></ul></li><li>Pembayaran melalui Gerai Retail:<ul><li>Kunjungi gerai retail yang bekerja sama dengan DANA (Indomaret, Alfamart, dll)</li><li>Tunjukkan kode pembayaran dari aplikasi DANA</li><li>Lakukan pembayaran sesuai instruksi kasir</li></ul></li><li>Kartu Kredit:<ul><li>Pilih metode pembayaran \"Kartu Kredit\" di aplikasi DANA</li><li>Masukkan detail kartu kredit</li><li>Konfirmasi pembayaran</li></ul></li></ol><p>Beberapa hal yang perlu diperhatikan dalam pembayaran Pinjaman DANA:</p><ul><li>Pastikan membayar sebelum tanggal jatuh tempo untuk menghindari denda keterlambatan</li><li>Jika menggunakan transfer bank, lakukan minimal 1 hari kerja sebelum jatuh tempo</li><li>Simpan bukti pembayaran hingga status pinjaman berubah menjadi \"Lunas\"</li><li>Jika mengalami kesulitan pembayaran, segera hubungi layanan pelanggan DANA</li></ul><p>Dengan berbagai metode pembayaran yang tersedia, Anda dapat memilih cara yang paling mudah dan nyaman untuk melunasi Pinjaman DANA. Pastikan untuk selalu membayar tepat waktu untuk menjaga riwayat kredit yang baik.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/loan.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icondana.png",
       "shortContent": "DANA menyediakan beberapa metode pembayaran."
     },
     {
@@ -88,7 +88,7 @@
       "categoryId": "c1",
       "title": "Keuntungan Menggunakan Pinjaman DANA",
       "content": "<p>Pinjaman DANA menawarkan beberapa keuntungan dibandingkan dengan layanan pinjaman konvensional atau pinjaman online lainnya. Berikut adalah beberapa keuntungan utama menggunakan Pinjaman DANA:</p><ol><li>Proses Pengajuan Cepat dan Mudah:<ul><li>Pengajuan 100% online melalui aplikasi DANA</li><li>Tidak perlu mengunjungi kantor atau bertemu agen</li><li>Proses verifikasi dan persetujuan dalam hitungan menit</li></ul></li><li>Pencairan Dana Instan:<ul><li>Dana langsung ditransfer ke rekening bank Anda</li><li>Pencairan bisa dalam hitungan menit setelah disetujui</li></ul></li><li>Tanpa Jaminan:<ul><li>Pinjaman tanpa agunan (KTA)</li><li>Tidak perlu menyerahkan BPKB, sertifikat, atau aset lainnya</li></ul></li><li>Bunga Kompetitif:<ul><li>Bunga relatif lebih rendah dibanding pinjaman online lainnya</li><li>Transparansi biaya dan bunga</li></ul></li><li>Fleksibilitas Limit Pinjaman:<ul><li>Limit pinjaman yang bervariasi sesuai profil pengguna</li><li>Peningkatan limit seiring penggunaan yang baik</li></ul></li><li>Integrasi dengan Ekosistem DANA:<ul><li>Kemudahan pembayaran melalui saldo DANA</li><li>Riwayat pinjaman terintegrasi dalam satu aplikasi</li></ul></li><li>Keamanan Data:<ul><li>Perlindungan data pribadi sesuai standar keamanan DANA</li><li>Enkripsi data end-to-end</li></ul></li><li>Dukungan Pelanggan 24/7:<ul><li>Layanan pelanggan yang responsif</li><li>Berbagai kanal komunikasi (chat, email, telepon)</li></ul></li></ol><p>Meski demikian, penting untuk diingat bahwa setiap produk pinjaman memiliki risiko dan tanggung jawab. Pastikan untuk memahami semua syarat dan ketentuan sebelum mengajukan Pinjaman DANA, dan gunakan pinjaman secara bijak sesuai kebutuhan.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/loan.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icondana.png",
       "shortContent": "Pinjaman DANA menawarkan beberapa keuntungan dibandingkan."
     },
     {
@@ -96,7 +96,7 @@
       "categoryId": "c1",
       "title": "Risiko dan Hal yang Perlu Diperhatikan",
       "content": "<p>Meskipun Pinjaman DANA menawarkan berbagai keuntungan, ada beberapa risiko dan hal penting yang perlu diperhatikan sebelum mengajukan pinjaman:</p><ol><li>Bunga dan Biaya:<ul><li>Meskipun kompetitif, bunga tetap lebih tinggi dibanding KTA bank konvensional</li><li>Biaya administrasi dan denda keterlambatan dapat menambah beban finansial</li></ul></li><li>Jangka Waktu Pendek:<ul><li>Jangka waktu 30 hari mungkin terlalu singkat bagi sebagian peminjam</li><li>Risiko gagal bayar jika tidak memiliki rencana pembayaran yang matang</li></ul></li><li>Risiko Keterlambatan Pembayaran:<ul><li>Denda keterlambatan yang cukup tinggi (0,5% per hari)</li><li>Dampak negatif pada skor kredit jika terlambat atau gagal bayar</li></ul></li><li>Ketergantungan pada Pinjaman:<ul><li>Kemudahan akses dapat mendorong perilaku berhutang yang tidak sehat</li><li>Risiko terjebak dalam siklus hutang jika tidak bijak mengelola keuangan</li></ul></li><li>Penilaian Kredit Internal:<ul><li>Kriteria penilaian kredit DANA mungkin berbeda dengan lembaga keuangan lain</li><li>Penolakan pinjaman dapat mempengaruhi peluang pinjaman di masa depan</li></ul></li><li>Keamanan Data:<ul><li>Meskipun DANA menjamin keamanan, selalu ada risiko kebocoran data</li><li>Pastikan menggunakan koneksi internet yang aman saat mengajukan pinjaman</li></ul></li><li>Perubahan Kebijakan:<ul><li>Syarat, ketentuan, bunga, dan biaya dapat berubah sewaktu-waktu</li><li>Perlu selalu memperhatikan pembaruan kebijakan dari DANA</li></ul></li></ol><p>Untuk meminimalkan risiko, berikut beberapa tips yang perlu diperhatikan:</p><ul><li>Pinjam sesuai kebutuhan dan kemampuan bayar</li><li>Baca dan pahami semua syarat dan ketentuan sebelum mengajukan pinjaman</li><li>Siapkan rencana pembayaran yang matang</li><li>Jangan mengandalkan perpanjangan atau refinancing</li><li>Prioritaskan pembayaran pinjaman tepat waktu</li><li>Jika mengalami kesulitan, segera hubungi layanan pelanggan DANA</li></ul><p>Dengan memahami risiko dan mengikuti tips di atas, Anda dapat memanfaatkan Pinjaman DANA secara lebih bijak dan aman.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/loan.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icondana.png",
       "shortContent": "Meskipun Pinjaman DANA menawarkan berbagai keuntungan, ada beberapa risiko."
     },
     {
@@ -104,7 +104,7 @@
       "categoryId": "c1",
       "title": "Tips Pengajuan Pinjaman DANA",
       "content": "<p>Untuk meningkatkan peluang persetujuan dan mendapatkan pengalaman terbaik dalam menggunakan Pinjaman DANA, berikut beberapa tips yang dapat Anda terapkan:</p><ol><li>Lengkapi Profil DANA:<ul><li>Pastikan akun DANA Anda sudah terverifikasi (KYC)</li><li>Lengkapi semua informasi profil di aplikasi DANA</li><li>Semakin lengkap profil, semakin tinggi peluang persetujuan</li></ul></li><li>Tingkatkan Aktivitas Transaksi:<ul><li>Lakukan transaksi rutin menggunakan DANA (pembayaran, transfer, dll)</li><li>Semakin aktif penggunaan DANA, semakin baik penilaian kredit internal</li></ul></li><li>Siapkan Dokumen dengan Baik:<ul><li>Pastikan foto KTP jelas dan tidak buram</li><li>Ambil selfie dengan pencahayaan yang baik</li><li>Sediakan dokumen pendukung lain jika diminta (slip gaji, rekening koran, dll)</li></ul></li><li>Pilih Jumlah Pinjaman yang Tepat:<ul><li>Jangan selalu memilih limit maksimum yang ditawarkan</li><li>Sesuaikan jumlah pinjaman dengan kebutuhan dan kemampuan bayar</li></ul></li><li>Perhatikan Waktu Pengajuan:<ul><li>Hindari mengajukan di akhir pekan atau hari libur</li><li>Pilih waktu kerja normal untuk proses yang lebih cepat</li></ul></li><li>Jaga Riwayat Kredit yang Baik:<ul><li>Bayar pinjaman tepat waktu</li><li>Hindari gagal bayar atau keterlambatan pembayaran</li></ul></li><li>Gunakan Fitur Pinjaman DANA secara Bertahap:<ul><li>Mulai dengan jumlah kecil untuk membangun kepercayaan</li><li>Tingkatkan jumlah pinjaman secara bertahap seiring waktu</li></ul></li><li>Pahami Syarat dan Ketentuan:<ul><li>Baca dengan teliti semua informasi terkait pinjaman</li><li>Jangan ragu bertanya ke layanan pelanggan jika ada yang kurang jelas</li></ul></li><li>Siapkan Rencana Pembayaran:<ul><li>Hitung dengan cermat kemampuan pembayaran Anda</li><li>Siapkan dana cadangan untuk mengantisipasi hal tak terduga</li></ul></li><li>Jaga Keamanan Akun:<ul><li>Gunakan PIN dan password yang kuat</li><li>Jangan bagikan informasi akun DANA kepada siapapun</li><li>Selalu logout dari aplikasi DANA setelah selesai menggunakan</li></ul></li></ol><p>Dengan menerapkan tips-tips di atas, Anda dapat meningkatkan peluang persetujuan pinjaman dan memastikan pengalaman yang lebih baik dalam menggunakan layanan Pinjaman DANA. Ingat, pinjaman adalah tanggung jawab finansial, jadi selalu gunakan dengan bijak dan sesuai kebutuhan.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/loan.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icondana.png",
       "shortContent": "Untuk meningkatkan peluang persetujuan dan mendapatkan pengalaman."
     },
     {
@@ -112,7 +112,7 @@
       "categoryId": "c1",
       "title": "Perbandingan Pinjaman DANA dengan Layanan Sejenis",
       "content": "<p>Untuk memberikan gambaran yang lebih komprehensif, berikut adalah perbandingan Pinjaman DANA dengan beberapa layanan pinjaman online lainnya yang populer di Indonesia:</p><table><tbody><tr><th>Fitur</th><th>Pinjaman DANA</th><th>Kredivo</th><th>Akulaku</th><th>UangMe</th></tr><tr><td>Limit Pinjaman</td><td>Rp500rb - Rp15jt</td><td>Rp500rb - Rp30jt</td><td>Rp1jt - Rp20jt</td><td>Rp400rb - Rp8jt</td></tr><tr><td>Jangka Waktu</td><td>30 hari</td><td>30 hari - 12 bulan</td><td>3 - 12 bulan</td><td>7 - 30 hari</td></tr><tr><td>Bunga</td><td>0,1% - 0,3% per hari</td><td>2,6% - 4% per bulan</td><td>3% - 3,5% per bulan</td><td>0,8% per hari</td></tr><tr><td>Biaya Admin</td><td>5% - 8%</td><td>0% - 5%</td><td>1% - 5%</td><td>10% - 15%</td></tr><tr><td>Proses Persetujuan</td><td>Beberapa menit</td><td>1 - 24 jam</td><td>1 - 48 jam</td><td>Beberapa menit</td></tr><tr><td>Metode Pembayaran</td><td>Saldo DANA, Transfer Bank, Gerai Retail</td><td>Kartu Kredit, Transfer Bank</td><td>Transfer Bank, Alfamart</td><td>Transfer Bank</td></tr><tr><td>Fitur Tambahan</td><td>Terintegrasi dengan ekosistem DANA</td><td>Cicilan 0% untuk belanja online</td><td>Pinjaman untuk belanja online</td><td>Perpanjangan otomatis</td></tr></tbody></table><p>Beberapa poin penting dari perbandingan di atas:</p><ol><li>Limit Pinjaman:<ul><li>DANA menawarkan rentang limit yang cukup luas, cocok untuk berbagai kebutuhan</li><li>Kredivo memiliki limit tertinggi, ideal untuk kebutuhan dana besar</li></ul></li><li>Jangka Waktu:<ul><li>DANA fokus pada pinjaman jangka sangat pendek (30 hari)</li><li>Kredivo dan Akulaku menawarkan opsi cicilan lebih panjang</li></ul></li><li>Bunga:<ul><li>DANA memiliki bunga harian yang kompetitif</li><li>Kredivo dan Akulaku menerapkan bunga bulanan yang lebih rendah untuk jangka panjang</li></ul></li><li>Biaya Admin:<ul><li>DANA berada di tengah-tengah dalam hal biaya admin</li><li>UangMe memiliki biaya admin tertinggi</li></ul></li><li>Proses Persetujuan:<ul><li>DANA dan UangMe menawarkan proses tercepat</li><li>Akulaku memiliki proses paling lama hingga 48 jam</li></ul></li><li>Metode Pembayaran:<ul><li>DANA menawarkan opsi pembayaran paling beragam</li><li>Integrasi dengan saldo DANA memberikan kemudahan tambahan</li></ul></li><li>Fitur Tambahan:<ul><li>Setiap layanan memiliki keunggulan unik</li><li>DANA unggul dalam integrasi dengan ekosistem dompet digitalnya</li></ul></li></ol><p>Dalam memilih layanan pinjaman online, pertimbangkan faktor-faktor berikut:</p><ul><li>Kebutuhan dana (jumlah dan jangka waktu)</li><li>Kemampuan pembayaran</li><li>Kecepatan pencairan yang dibutuhkan</li><li>Preferensi metode pembayaran</li><li>Fitur tambahan yang mungkin bermanfaat</li></ul><p>Pinjaman DANA mungkin menjadi pilihan tepat jika Anda:</p><ul><li>Membutuhkan dana cepat dalam jumlah kecil hingga menengah</li><li>Mampu melunasi dalam waktu 30 hari</li><li>Sudah aktif menggunakan aplikasi DANA untuk transaksi sehari-hari</li><li>Menginginkan proses pengajuan dan pencairan yang sangat cepat</li></ul><p>Namun, jika Anda membutuhkan pinjaman jangka panjang atau jumlah yang lebih besar, opsi seperti Kredivo atau Akulaku mungkin lebih sesuai. Selalu bandingkan dengan cermat dan pilih layanan yang paling sesuai dengan kebutuhan dan kemampuan finansial Anda.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/loan.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icondana.png",
       "shortContent": "Untuk memberikan gambaran yang lebih komprehensif, berikut."
     },
     {
@@ -120,7 +120,7 @@
       "categoryId": "c2",
       "title": "GoPay PayLater",
       "content": "<p>Gojek merupakan salah satu ojek<span>&nbsp;</span><em>online<span>&nbsp;</span></em>yang memiliki fitur PayLater. Cara Mendaftar<span>&nbsp;</span>Gojek PayLater<span>&nbsp;</span>seperti pada umumnya yaitu dengan mengajukan permohonan dan disetujui, akan tetapi hanya pelanggan tertentu saja yang bisa menggunakannya.</p><p>Berikut cara mengaktifkan GoPay Later di Aplikasi Gojek ;</p><ul><li>Di aplikasi GoPay Later, klik Aktifin Sekarang</li><li>Masuk ke akun PT MAB lalu klik Lanjut</li><li>Baca serta pahami Syarat dan Ketentuan, lalu klik Saya Setuju dengan Syarat &amp; Ketentuan</li><li>Foto e-KTP, foto<span>&nbsp;</span><em>selfie</em>, dan isi data diri</li><li>Tunggu data diproses</li></ul><p>Kelebihan yang ditawarkan adalah maksimal limit hingga Rp 30 juta, tenor hingga 12 bulan dan biaya mulai dari 2% per transaksi serta bebas biaya bulanan.</p><p>Dengan bisa digunakannya di semua<span>&nbsp;</span><em>merchant<span>&nbsp;</span></em>GoPay yang semuanya sudah tersedia dalam satu aplikasi Gojek di hp, dan<span>&nbsp;</span><em>Merchants<span>&nbsp;</span></em>yang bekerja sama dengan Gojek ini adalah GoFood, GoRide, GoBluebird, GoPulsa, GoTix, dan juga GoBills.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/wallet.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/iconpaylater.png",
       "shortContent": "Gojek merupakan salah satu ojek."
     },
     {
@@ -128,7 +128,7 @@
       "categoryId": "c2",
       "title": "Shopee PayLater",
       "content": "<p>Shopee PayLater adalah salah satu alat pembayaran untuk<span>&nbsp;</span>Shopee<span>&nbsp;</span>dan punya fitur PayLater. Cara Mendaftar Shopee PayLater adalah dengan menggunakan E-KTP dan menunggu verifikasi dari pusat yang memakan waktu sekitar 24 jam.</p><p>Berikut cara daftar PayLater Shopee :</p><ul><li>Buka aplikasi Shopee</li><li>Klik tab Saya, lalu pilih SPayLater</li><li>Klik Aktifkan Sekarang</li><li>Masukan Kode Verifikasi (OTP)* yang dikirimkan melalui SMS dan klik Lanjut&nbsp;</li><li>Unggah Foto KTP dan masukan Nama beserta NIK. Klik Konfirmasi</li><li>Masukan Informasi Tambahan. Klik Konfirmasi</li><li>Lakukan Verifikasi Wajah. Arahkan wajah ke dalam<span>&nbsp;</span><em>frame<span>&nbsp;</span></em>sesuai dengan petunjuk</li></ul><p>Kelebihan yang ditawarkan adalah bisa membeli barang di Shopee dan membayarnya nanti dengan cicilan hingga 12 bulan dan limit hingga Rp 50 juta.</p><p>Cara bayar Shopee PayLater ini sangat mudah, klik saya, ShopeePayLater, pilih pembayaran ShopeePay, Indomaret, atau<span>&nbsp;</span><em>virtual account</em><span>&nbsp;</span>yang akan diingatkan setiap tanggal 25. Sebab, jika melewati tanggal tersebut akan dikenakan denda sebesar 5% dari total tagihan.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/wallet.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/iconpaylater.png",
       "shortContent": "Shopee PayLater adalah salah satu alat pembayaran untuk Shopee dan punya fitur PayLater."
     },
     {
@@ -136,7 +136,7 @@
       "categoryId": "c2",
       "title": "Kredivo PayLater",
       "content": "<p>Kredivo merupakan salah satu aplikasi penyedia PayLater. Layanan ini memberikan kemudahan untuk beli sekarang dan bayar nanti dalam 30 hari atau cicilan 3 bulan dengan bunga 0% ataupun dengan cicilan 6, 12, 18 dan 24 bulan dengan bunga 2.6% per bulan.</p><p>Cara Mendaftar<span>&nbsp;</span>Kredivo<span>&nbsp;</span>adalah dengan cara mengunduh aplikasinya di Playstore atau AppStore dan meminta persetujuan.&nbsp;Untuk mendaftar Kredivo, ada beberapa syarat yang harus dipenuhi yaitu :</p><ul><li>WNI</li><li>Usia 18 - 60 tahun</li><li>Tinggal di Indonesia</li><li>Berpenghasilan minimal Rp 3.000.000 per bulan</li></ul><p>Kelebihan yang ditawarkan adalah<span>&nbsp;</span><em>fintech<span>&nbsp;</span></em>dengan aplikasi yang ditawarkan oleh<span>&nbsp;</span><em>merchants<span>&nbsp;</span></em>yang bekerja sama.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/wallet.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/iconpaylater.png",
       "shortContent": "Kredivo merupakan salah satu aplikasi penyedia PayLater. Layanan ini."
     },
     {
@@ -144,7 +144,7 @@
       "categoryId": "c2",
       "title": "Akulaku PayLater",
       "content": "<p>Akulaku<span>&nbsp;</span>yang merupakan alat pembayaran masa kini juga mengeluarkan PayLater. Sudah ada lebih dari 1000<span>&nbsp;</span><em>merchant<span>&nbsp;</span></em>yang bergabung di Akulaku.</p><p>Beberapa keuntungan yang ditawarkan seperti tenor panjang dan fleksibel hingga 15 bulan. Dengan aplikasi Paylater ini Anda bisa juga melakukan<span>&nbsp;</span><em>top up</em><span>&nbsp;</span>pulsa, membeli paket data internet, tiket pesawat hingga<span>&nbsp;</span><em>voucher<span>&nbsp;</span></em>hiburan.</p><p>Tarif biaya admin pesanan awal adalah 1.5%. Seiring dengan bertambahnya jumlah pesanan, tarif biaya juga akan menurun secara bertahap. Tarif biaya admin terendah bisa mencapai 0.5%</p><p>Anda bisa gunakan pembayaran dengan Akulaku di berbagai<span>&nbsp;</span><em>platform e-commerce</em>, seperti Shopee, BukaLapak, Blibli, dan masih banyak lainnya. Cara Mendaftarnya mudah seperti pendaftaran aplikasi yang lain dengan mengajukan permintaan dan menunggu disetujui.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/wallet.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/iconpaylater.png",
       "shortContent": "Akulaku yang merupakan alat pembayaran masa kini juga mengeluarkan PayLater."
     },
     {
@@ -152,7 +152,7 @@
       "categoryId": "c2",
       "title": "Home Credit",
       "content": "<p>Home Credit<span>&nbsp;</span>juga merupakan lembaga pembayaran yang memiliki fitur PayLater. Cara Mendaftarnya yaitu dengan mempersiapkan KTP seperti pada pendaftaran aplikasi PayLater yang lainnya.</p><p>Berikut cara daftar Home Credit :</p><ul><li>Download aplikasi My Home Credit</li><li>Masukkan Data (tanggal lahir sesuai KTP, nomor hp aktif, PIN)</li><li>Tulis Kode Verifikasi yang akan dikirim ke nomor hp</li></ul><p>Kelebihan yang ditawarkan ini yaitu dengan adanya fitur pengecekan BI checking dan telah banyak digunakan oleh banyak orang. Merchants yang bekerja sama dengan Home Credit ini banyak sekali, yang biasanya bisa dilihat pada detail pemesanan, apakah dilanjutkan dengan metode yang lain atau menggunakan Home Credit ini.</p><p>Beberapa merchant Home Credit mencakup Erafone, iBox, Electronic City, Hypermart, Informa, IKEA dan sebagainya.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/wallet.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/iconpaylater.png",
       "shortContent": "Home Creditmjuga merupakan lembaga pembayaran yang memiliki fitur PayLater."
     },
     {
@@ -160,7 +160,7 @@
       "categoryId": "c2",
       "title": "Traveloka PayLater",
       "content": "<p>Selanjutnya Traveloka yang merupakan aplikasi Travel juga mengeluarkan PayLater. Cara mendaftar PayLater Traveloka juga hanya membutuhkan pengajuan dengan menggunakan KTP. Caranya sebagai berikut :Buka aplikasi Traveloka, lalu pilih PayLater</p><ul><li>Lengkapi informasi yang dibutuhkan</li><li>Siapkan KTP dan<span>&nbsp;</span><em>selfie<span>&nbsp;</span></em>untuk verifikasi</li><li>Setelah disetujui, aktifkan akun</li></ul><p>Kelebihan yang ditawarkan dari<span>&nbsp;</span>Traveloka<span>&nbsp;</span>yaitu kemudahan untuk membeli produk-produk Traveloka tanpa harus membayarnya di hari yang bersamaan.</p><p><em>Merchants</em><span>&nbsp;</span>yang bekerja sama dengan Traveloka adalah semua produk di Traveloka seperti pesawat, kereta, bus, tempat wisata, dan lain sebagainya yang bisa dibayarkan dengan pembelian aplikasi ini saja.&nbsp;</p><p>Termasuk bisa digunakan untuk transaksi di<span>&nbsp;</span><em>e-commerce</em><span>&nbsp;</span>dan toko-toko<span>&nbsp;</span><em>online<span>&nbsp;</span></em>lainnya. Bunga PayLater sebesar 2.25%-4.80% per bulan. Biaya tersebut diberlakukan untuk pengguna yang melakukan cicilan bulanan dan berlaku<span>&nbsp;</span><em>flat<span>&nbsp;</span></em>atau rata untuk setiap bulannya.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/wallet.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/iconpaylater.png",
       "shortContent": "Selanjutnya Traveloka yang merupakan aplikasi Travel juga mengeluarkan PayLater."
     },
     {
@@ -168,7 +168,7 @@
       "categoryId": "c2",
       "title": "Indodana",
       "content": "<p>Indodana adalah salah satu penyedia kredit<span>&nbsp;</span><em>online</em>. Cara Mendaftar<span>&nbsp;</span>Indodana<span>&nbsp;</span>adalah dengan mengunduh aplikasi dan mendaftarkan diri dengan menyetujui berbagai syarat dan ketentuan yang berlaku.</p><p>Berikut cara daftar di Indodana :</p><ul><li>Download aplikasi Indodana Finance</li><li>Masukkan Nomor HP</li><li>Lakukan verifikasi nomor telepon</li><li>Pilih PayLater pada menu utama</li><li>Dapatkan limit dengan mengisi formulir pendaftaran dan menggungah data-data yang diperlukan.</li><li>Tunggu proses verifikasi dan layanan PayLater bisa segera digunakan</li></ul><p>Adapun syarat-syaratnya mencakup WNI, usia 20-65 tahun, memiliki penghasilan minimum Rp 3.500.000, KTP, memiliki penghasilan tetap dan telah bekerja minimal 3 bulan. Kelebihan yang ditawarkan adalah limit kredit hingga Rp 30 juta, bisa dibayar dalam 30 hari atau cicilan 3/6/12 bulan.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/wallet.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/iconpaylater.png",
       "shortContent": "Indodana adalah salah satu penyedia kredit online."
     },
     {
@@ -176,7 +176,7 @@
       "categoryId": "c2",
       "title": "BRI Ceria",
       "content": "<p>BRI ceria juga merupakan alat penyedia kredit online. Cara mendaftar<span>&nbsp;</span>BRI Ceria<span>&nbsp;</span>sangat mudah, yaitu dengan mengunduhnya di PlayStore, registrasi, dan ajukan pinjaman, jika lolos maka langsung dapat pinjaman.</p><p>Syarat pengajuan BRI Ceria :</p><ul><li>Dilakukan secara<span>&nbsp;</span><em>online<span>&nbsp;</span></em>melalui aplikasi CERIA</li><li>WNI</li><li>Memiliki rekening simpanan di BRI</li><li>Usia 21 - 50 tahun</li><li>KTP</li></ul><p>Cara registrasi BRI Ceria :</p><ul><li>Donwload aplikasi Ceria lalu buka</li><li>Masukkan nomor hp lalu sign up</li><li>Masukkan kode OTP yang dikirim ke hp</li><li>Buat PIN lalu konfirmasi PIN</li><li>Selesai</li></ul><p>Kelebihan yang ditawarkan adalah proses pengajuan kurang dari 10 menit, bunga cicilan 1,42%<span>&nbsp;</span><em>flat<span>&nbsp;</span></em>per bulan, limit kredit Rp 500 ribu &ndash; Rp 20 Juta, bersifat<span>&nbsp;</span><em>revolving<span>&nbsp;</span></em>(sesuai dengan penggunaan dan pembayaran tagihan) dan jangka waktu cicilan 1-12 bulan.</p><p><em>Merchants<span>&nbsp;</span></em>yang bekerja sama dengan BRI Ceria adalah berbagai<span>&nbsp;</span><em>e-commerce</em><span>&nbsp;</span>Indonesia. Beberapa<span>&nbsp;</span><em>merchant<span>&nbsp;</span></em>yang bisa menggunakan aplikasi BR Ceria seperti Tokopedia, Blibli, Bukalapak, Dinomarket, MyHartono dan lainnya.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/wallet.png",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/iconpaylater.png",
       "shortContent": "BRI ceria juga merupakan alat penyedia kredit online."
     },
     {
@@ -184,7 +184,7 @@
       "categoryId": "c3",
       "title": "Danamas",
       "content": "<p>Danamas adalah salah satu contoh pinjaman online yang menawarkan limit pinjaman hingga Rp7.5 juta dengan tenor mulai dari 3 hingga 6 bulan.&nbsp;</p><p>Pinjaman online ini sangat cepat dalam mencairkan dana setelah proses verifikasi selesai, menjadikannya pilihan yang tepat ketika Anda membutuhkan uang tunai dalam waktu singkat.&nbsp;</p><p>Selain itu, Danamas sudah terdaftar di OJK dan memiliki afiliasi dengan Asosiasi Fintech Pendanaan Bersama Indonesia (AFPI), sehingga Anda bisa merasa tenang dan aman.</p><p>Bunga pinjaman di Danamas dimulai dari 14% per tahun (APR 17%), yang masih tergolong rendah untuk pinjaman tanpa agunan.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/5menit.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icon500.png",
       "shortContent": "Danamas adalah salah satu contoh pinjaman online yang menawarkan."
     },
     {
@@ -192,7 +192,7 @@
       "categoryId": "c3",
       "title": "Kredit Pintar",
       "content": "<p>Selanjutnya, ada Kredit Pintar yang menawarkan kemudahan dalam pengajuan pinjaman.&nbsp;</p><p>Proses pengajuan yang dilakukan di platform ini cukup praktis. Anda hanya perlu mengisi data diri, mengunggah foto KTP, dan menunggu verifikasi yang biasanya tidak memakan waktu lama.&nbsp;</p><p>Begitu pinjaman Anda disetujui,&nbsp;<strong>dana pinjaman akan segera cair ke rekening</strong><span>&nbsp;</span>Anda dalam waktu kurang dari 5 menit.&nbsp;</p><p>Dengan pengawasan OJK, Kredit Pintar menjamin transaksi yang aman dan transparan, serta memberikan fleksibilitas dalam pembayaran tagihan yang bisa dilakukan melalui berbagai metode seperti ATM, M-Banking, dan bahkan di minimarket seperti Alfamart.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/5menit.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icon500.png",
       "shortContent": "Selanjutnya, ada Kredit Pintar yang menawarkan kemudahan."
     },
     {
@@ -200,7 +200,7 @@
       "categoryId": "c3",
       "title": "Dana Rupiah",
       "content": "<p>Dana Rupiah merupakan platform pinjaman online yang terkenal dengan proses verifikasi yang cepat.&nbsp;</p><p>Dalam waktu 5 menit, sistem otomatis akan melakukan verifikasi data Anda, dan apabila disetujui, dana akan cair ke rekening Anda dalam waktu 24 jam.&nbsp;</p><p>Pinjol ini sudah terdaftar di OJK dan menawarkan suku bunga maksimum sebesar 36% per tahun (APR).</p><p>Dana Rupiah memberikan kenyamanan dengan memungkinkan pembayaran pinjaman Anda melalui transfer bank atau M-Banking, sehingga memudahkan Anda dalam melunasi pinjaman sesuai jadwal yang telah ditentukan.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/5menit.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icon500.png",
       "shortContent": "Dana Rupiah merupakan platform pinjaman online yang terkenal."
     },
     {
@@ -208,7 +208,7 @@
       "categoryId": "c3",
       "title": "AdaKami",
       "content": "<p>AdaKami menawarkan pinjaman hingga Rp80 juta tanpa memerlukan jaminan.</p><p>Apabila Anda meminjam yang di pinjol ini, tersedia pilihan tenor yang fleksibel, mulai dari 3 bulan hingga 12 bulan, dengan suku bunga maksimum 36% per tahun (APR).&nbsp;</p><p>Selain itu, AdaKami telah terdaftar dan diawasi oleh OJK, memastikan Anda mendapatkan&nbsp;<strong>layanan pinjaman yang legal dan aman</strong>.&nbsp;</p><p>Anda juga akan dikenakan biaya layanan sebesar 1.42% dari pokok pinjaman, yang sudah tercantum dengan jelas dalam perjanjian.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/5menit.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icon500.png",
       "shortContent": "AdaKami menawarkan pinjaman hingga Rp80 juta."
     },
     {
@@ -216,7 +216,7 @@
       "categoryId": "c3",
       "title": "KTA Kilat",
       "content": "<p>KTA Kilat menawarkan pinjaman tunai yang dapat Anda ajukan tanpa jaminan apapun.&nbsp;</p><p>Pinjaman online ini terdaftar di OJK dan memberikan limit pinjaman hingga Rp9 juta dengan tenor yang dapat disesuaikan antara 91 hingga 180 hari.&nbsp;</p><p>Proses pengajuan pinjaman di KTA Kilat sangat mudah karena Anda hanya perlu mengunduh aplikasi, mengisi formulir, dan dana akan langsung dicairkan setelah disetujui.&nbsp;</p><p>Bunga pinjaman di KTA Kilat juga cukup rendah, dengan maksimum APR 19% per tahun.&nbsp;</p><p>Pembayaran cicilan pinjaman di KTA Kilat bisa Anda lakukan melalui berbagai bank dan minimarket yang bekerja sama dengan platform ini, memberikan kemudahan bagi Anda untuk melunasi pinjaman.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/5menit.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icon500.png",
       "shortContent": "KTA Kilat menawarkan pinjaman tunai yang dapat."
     },
     {
@@ -224,7 +224,7 @@
       "categoryId": "c3",
       "title": "Tokomodal",
       "content": "<p>Tokomodal merupakan aplikasi pinjaman online yang menyediakan layanan&nbsp;<strong>pinjaman uang dengan limit cukup tinggi</strong><span>&nbsp;</span>mulai dari Rp300.000 hingga Rp200 juta.&nbsp;</p><p class=\"MuiTypography-root MuiTypography-body2 mui-style-tqxaqr\">Dengan tenor yang fleksibel antara 60 hingga 360 hari, Tokomodal menawarkan suku bunga tahunan maksimum sebesar 10%.</p><p>Selain itu, Tokomodal terdaftar di OJK dan telah mendapatkan sertifikasi ISO 27001:2013, yang menjamin keamanan data dan transaksi Anda sebagai pengguna.&nbsp;</p><p>Pinjaman online ini juga mempermudah pembayaran pinjaman dengan biaya keterlambatan yang sangat jelas, yakni 0.10% per hari.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/5menit.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icon500.png",
       "shortContent": "Tokomodal merupakan aplikasi pinjaman online yang menyediakan layanan."
     },
     {
@@ -232,7 +232,7 @@
       "categoryId": "c3",
       "title": "Tunaiku",
       "content": "<p>Tunaiku adalah pilihan yang sangat tepat bagi Anda yang membutuhkan pinjaman besar, hingga Rp30 juta.&nbsp;</p><p>Pinjaman online ini menawarkan pinjaman dengan tenor cicilan yang panjang, mulai dari 6 hingga 30 bulan, sehingga Anda dapat mengatur pembayaran sesuai kemampuan finansial.&nbsp;</p><p>Tunaiku terdaftar dan diawasi oleh OJK, yang artinya mereka komitmen untuk menjaga keamanan data Anda sebagai peminjam dana.&nbsp;</p><p><strong>Bunga pinjaman yang dikenakan cukup rendah</strong><span>&nbsp;</span>berkisar antara 3 hingga 5% per bulan, dan biaya keterlambatan sebesar Rp150.000 per bulan.&nbsp;</p><p>Dengan proses yang cepat, dana pinjaman di Tunaiku akan cair ke rekening Anda dalam waktu kurang dari 24 jam setelah disetujui.</p>",
-      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/5menit.jpg",
+      "logoUrl": "https://raw.githubusercontent.com/simbatech30/guidepinjol/refs/heads/main/icon500.png",
       "shortContent": "Tunaiku adalah pilihan yang sangat tepat bagi Anda yang membutuhkan."
     }
   ]
