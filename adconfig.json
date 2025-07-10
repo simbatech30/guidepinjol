@@ -1,27 +1,26 @@
+
 {
   "adsGloballyEnabled": true,
-  "adUnitIds": {
+  "admob": {
     "android": {
-      "banner": "ca-app-pub-4144720939137783/7953755406",
+     "banner": "ca-app-pub-4144720939137783/7953755406",
       "interstitial": "ca-app-pub-4144720939137783/6977399869",
       "appOpen": "ca-app-pub-4144720939137783/6640673739"
     },
     "ios": {
-      "banner": "ca-app-pub-YOUR_REAL_IOS_BANNER_ID_OR_TEST_ID",
-      "interstitial": "ca-app-pub-YOUR_REAL_IOS_INTERSTITIAL_ID_OR_TEST_ID",
-      "appOpen": "ca-app-pub-YOUR_REAL_IOS_APP_OPEN_ID_OR_TEST_ID"
+      "banner": "ca-app-pub-3940256099942544/2934735716",
+      "interstitial": "ca-app-pub-3940256099942544/4411468910",
+      "appOpen": "ca-app-pub-3940256099942544/5575463023"
     }
   },
-  "fallbackTestIds": { 
+  "fan": {
     "android": {
-      "banner": "ca-app-pub-4144720939137783/7953755406",
-      "interstitial": "ca-app-pub-4144720939137783/6977399869",
-      "appOpen": "ca-app-pub-4144720939137783/6640673739"
+      "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
     "ios": {
-      "banner": "ca-app-pub-4144720939137783/7953755406",
-      "interstitial": "ca-app-pub-4144720939137783/6977399869",
-      "appOpen": "ca-app-pub-4144720939137783/6640673739"
+      "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     }
   }
 }
