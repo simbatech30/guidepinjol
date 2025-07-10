@@ -14,12 +14,12 @@
   },
   "fan": {
     "android": {
-      "banner": "YOUR_ANDROID_FAN_BANNER_PLACEMENT_ID",
-      "interstitial": "YOUR_ANDROID_FAN_INTERSTITIAL_PLACEMENT_ID"
+      "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
     "ios": {
-      "banner": "YOUR_IOS_FAN_BANNER_PLACEMENT_ID",
-      "interstitial": "YOUR_IOS_FAN_INTERSTITIAL_PLACEMENT_ID"
+      "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     }
   }
 }
