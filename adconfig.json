@@ -3,9 +3,9 @@
   "adsGloballyEnabled": true,
   "admob": {
     "android": {
-     "banner": "ca-app-pub-4144720939137783/7953755406",
-      "interstitial": "ca-app-pub-4144720939137783/6977399869",
-      "appOpen": "ca-app-pub-4144720939137783/6640673739"
+     "banner": "ca-app-pub-3201368490977779/3740789059",
+      "interstitial": "ca-app-pub-3201368490977779/7939070270",
+      "appOpen": "ca-app-pub-3201368490977779/7105093653"
     },
     "ios": {
       "banner": "ca-app-pub-3940256099942544/2934735716",
@@ -15,8 +15,8 @@
   },
   "fan": {
     "android": {
-      "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      "banner": "ca-app-pub-7152831960123369/7819251396",
+      "interstitial": "ca-app-pub-7152831960123369/3975939801"
     },
     "ios": {
       "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
